@@ -1,0 +1,2110 @@
+area,type,room,sqm,price,price/sqm
+Kallio,kt,"1h, kk","28,50",225000,7895
+Malmi,kt,"1h, kk, ikkunal...","33,00",106000,3212
+Harju,kt,1h+kph,"24,00",195000,8125
+Kamppi,kt,"1h, kk, alkovi,...","32,00",294000,9188
+Lauttasaari,kt,"1h, avok. kph, ...","33,00",215000,6515
+Etu-töölö,kt,"1h, avok., kph, et","23,00",220000,9565
+Etu-töölö,kt,"1h,kk,kph","27,50",205000,7455
+Taka-töölö,kt,"1h, kk, kph","20,40",170000,8333
+Kallio,kt,1h+kk,"22,00",173000,7864
+Malmi,kt,"1 h, avokeitti&...","31,00",139000,4484
+Mellunmäki,kt,1h+k+kph+las.pa...,"33,50",106000,3164
+Töölö,kt,1 h + kph,"26,30",223500,8498
+Ruskeasuo,kt,1h+kk,"27,00",195000,7222
+Puotila,kt,"1h, kk, kph, pa...","28,00",164000,5857
+Punavuori,kt,"1h, k, kph, eri...","30,00",317000,10567
+Sörnäinen,kt,"1h, alk, k, kph","44,00",195000,4432
+Alppila,kt,"1h, k ","42,00",262000,6238
+Ullanlinna,kt,"1h, keittonurkk...","17,00",245000,14412
+Torkkelinmäki,kt,"1h,avokeitti...","22,70",216000,9515
+Herttoniemi,kt,"1h, kk, kph","31,00",163500,5274
+Sörnäinen,kt,"1h,k,vah,et,kph","36,00",243300,6758
+Kallio,kt,1h+k,"37,00",252000,6811
+Kivikko,kt,"1h,alk,kk,kph,s...","40,00",170000,4250
+Kannelmäki,kt,1h + kk,"25,00",141250,5650
+Käpylä,kt,"1h, k, vh, kph","28,50",210500,7386
+Merihaka,kt,"1h, kk","32,00",190000,5938
+Ullanlinna,kt,"1h, kk, kph, s,...","33,00",365000,11061
+Etelä-haaga,kt,"1 h, kk, kh","25,00",156000,6240
+Harju,kt,1h+kk+lasitettu...,"30,00",202000,6733
+Etelä-haaga,kt,"1h+alkovi, avok...","27,00",191000,7074
+Pukinmäki,kt,1h+k+kph+las.pa...,"31,50",150000,4762
+Vallila,kt,"1h,k,alk,kh","40,50",270000,6667
+Herttoniemi,kt,"1 h, k, kph","42,00",245000,5833
+Vallila,kt,1h+avok+kph,"23,00",196000,8522
+Punavuori,kt,1h+k+m.alk.+wc,"36,00",290000,8056
+Vuosaari,kt,"1h, kk, kph, la...","32,00",145000,4531
+Sörnäinen,kt,1h,"23,00",162000,7043
+Hakaniemi,kt,"1h,kk,wc/suihku","25,00",160000,6400
+Kallio,kt,1h+k,"45,00",293000,6511
+Kannelmäki,kt,"1h, avok, kph","27,00",135000,5000
+Etelä-haaga,kt,1h+avok.+kph+vh...,"27,00",211500,7833
+Sörnäinen,kt,1 h+k+kph,"17,00",164000,9647
+Sörnäinen,kt,"1h, avok, kph","25,00",190000,7600
+Alppiharju,kt,1h+kk,"26,00",188000,7231
+Meilahti,kt,"1h, avok, kph/w...","41,00",320000,7805
+Katajanokka,kt,1h,"18,00",210000,11667
+Etu-töölö,kt,1h+kk,"31,00",280000,9032
+Puotila,kt,1h+kk+p,"33,00",142000,4303
+Kallio,kt,"1h, kk, kph","25,00",180000,7200
+Lauttasaari,kt,"1h, alkovi, kk,...","27,50",215000,7818
+Vartiokylä,kt,"1h, kk ,kph, pa...","28,00",143000,5107
+Etu-töölö,kt,"1h, avokeitti&#...","32,00",305000,9531
+Ullanlinna,kt,"1h, k, kph, alk...","56,00",575000,10268
+Taka-töölö,kt,"1h, avok kph ","26,00",253000,9731
+Töölö,kt,"1h, avok","17,00",165000,9706
+Sörnäinen,kt,1h+kk,"18,20",150000,8242
+Mellunkylä,kt,"1h, avok, ransk...","29,50",139000,4712
+Kallio,kt,1h+alk.+kk+kph,"30,00",185000,6167
+Etelä-haaga,kt,1h+kk,"23,90",180000,7531
+Alppila,kt,"1h, avok, kph","24,00",200000,8333
+Käpylä,kt,"1h, kk ja alkovi","30,00",185000,6167
+Kallio,kt,1h+k+alk,"48,00",305000,6354
+Etu-töölö,kt,"1-2 h, k, kph","49,00",397000,8102
+Kruununhaka,kt,"1h, k, kph","47,00",365000,7766
+Meilahti,kt,"1h, kk,kph","25,00",165000,6600
+Sörnäinen,kt,"1h, kk, kph, parvi","28,00",237000,8464
+Viikki,kt,"1h, kk, alkovi,...","43,50",225000,5172
+Taka-töölö,kt,1h+kk+kph,"20,00",158200,7910
+Kruununhaka,kt,1h+kk,"21,00",202000,9619
+Konala,kt,"1h, kk, alkovi,...","31,00",125900,4061
+Kaarela,kt,1h+kk,"25,00",148000,5920
+Kamppi,kt,1h + kk + kph + et,"25,00",240000,9600
+Etu-töölö,kt,1h+avok+kph,"26,00",228000,8769
+Länsi-pakila,kt,"1 h, kk, kph, l...","30,50",160000,5246
+Kallio,kt,"1h, avok, alk j...","35,00",267000,7629
+Harju,kt,"1h, k, kph","38,80",248000,6392
+Kruununhaka,kt,"1-2h, avok, kph...","54,00",470000,8704
+Vallila,kt,1h + k,"31,00",235000,7581
+Kallio,kt,1 h + kk,"34,00",218000,6412
+Kallio,kt,"1h, k, kph","34,00",246000,7235
+Lauttasaari,kt,"1h, avok, kph, ...","38,00",297000,7816
+Punavuori,kt,"1h, alkovi, k, kph","42,00",385000,9167
+Kallio,kt,"1h,kk","25,00",206000,8240
+Kallio,kt,"1h, avok, kph","21,80",199000,9128
+Pajamäki,kt,"1h, kk","24,00",153000,6375
+Suurmetsä,kt,"1h, kk, kph","33,50",86000,2567
+Laajasalo,kt,1h+kk,"29,50",135000,4576
+Kamppi,kt,1 h+k+kph+parvi,"31,50",288000,9143
+Harju,kt,"1h, keittiö...","40,00",280000,7000
+Pihlajamäki,kt,"1 h, kk, kph (Y...","24,50",115000,4694
+Tapaninvainio,kt,"1h,kk,kph, lasi...","33,50",134000,4000
+Kumpula,kt,1h+tupak+s,"38,00",210000,5526
+Ullanlinna,kt,1h,"21,50",250000,11628
+Lauttasaari,kt,1h+kk+kph+et,"30,00",210000,7000
+Kallio,kt,"1h, kk","26,00",195000,7500
+Etu-töölö,kt,"1h,k","36,50",275000,7534
+Taka-töölö,kt,"1h, kk, kph","21,00",168000,8000
+Torkkelinmäki,kt,"1h, avok, kph j...","32,00",212000,6625
+Kallio,kt,"1h, kk, alk, kp...","28,00",220000,7857
+Etu-töölö,kt,1h+kk+kph,"34,50",262000,7594
+Punavuori,kt,"1-2h, k, kph, wc","41,50",351000,8458
+Etu-töölö,kt,"1h, kk, kph","23,00",242000,10522
+Kamppi,kt,1+kk,"23,00",256000,11130
+Harju,kt,1h+kk+kph+parvi...,"26,00",204000,7846
+Niemenmäki,kt,"1h, k, kph, et,...","29,50",210000,7119
+Lauttasaari,kt,"1h, kk, kph","24,00",225000,9375
+Pohjois-haaga,kt,"1h, kk, kh","29,00",170000,5862
+Torkkelinmäki,kt,1h+avok.+kh+ran...,"33,50",195000,5821
+Etu-töölö,kt,"1h, avok, kph","19,20",203000,10573
+Vallila,kt,1h+k+alkovi+kph,"40,00",230000,5750
+Taka-töölö,kt,1h+k,"31,50",239000,7587
+Vallila,kt,1h+kt+alk+p,"44,00",357000,8114
+Taka-töölö,kt,"1h, kk, kph","28,00",188000,6714
+Punavuori,kt,"1h, k, kph","29,00",286000,9862
+Oulunkylä,kt,1h+kt+parveke,"27,50",247000,8982
+Kruununhaka,kt,1h+k,"29,00",241000,8310
+Etu-töölö,kt,"1h, alk, avok, kph","31,50",337000,10698
+Alppila,kt,1h+k,"33,00",223000,6758
+Laajasalo,kt,"1h, kk, kph, la...","24,00",141000,5875
+Siltamäki,kt,"1h, kk, las.par...","26,00",95000,3654
+Kallio,kt,"1h, kk, kph, vh","28,00",230000,8214
+Alppiharju,kt,"1h, avok, kph/w...","29,50",244500,8288
+Vuosaari,kt,"1 h, avok., kph, p","30,00",165000,5500
+Kontula,kt,1k+kt+las.par.,"31,50",173500,5508
+Vallila,kt,"1h, avok","27,50",252500,9182
+Herttoniemi,kt,"1h, avok+kh","34,00",199000,5853
+Punavuori,kt,"1h, k, kph, et,...","39,50",385000,9747
+Meilahti,kt,"1h, kk","31,00",232000,7484
+Taka-töölö,kt,"1 h, kt, kh (YJ...","40,00",240000,6000
+Töölö,kt,Ylimmän ke...,"20,00",183000,9150
+Sörnäinen,kt,"1h, avok, kph","27,00",195500,7241
+Alppila,kt,1 h+k+kph+las. ...,"29,50",235000,7966
+Lassila,kt,"1h, kk, kph, la...","31,00",145000,4677
+Lassila,kt,"1h, kk","32,00",145000,4531
+Punavuori,kt,1h+kk+alkovi,"36,80",292000,7935
+Herttoniemi,kt,"1h, avok, alkov...","37,00",230000,6216
+Kamppi,kt,"1 huone, kph","20,50",225000,10976
+Kallio,kt,1h+kk,"30,00",215000,7167
+Kamppi,kt,1h+k+kh+parveke,"45,00",333500,7411
+Pitäjänmäki,kt,"1h, kk, kph","24,00",127000,5292
+Ullanlinna,kt,1h+kk+kph,"24,00",215000,8958
+Herttoniemi,kt,"1h, kk, kph/wc ...","31,00",204000,6581
+Munkkiniemi,kt,"1h, kk, rh, kph","34,50",305000,8841
+Taka-töölö,kt,"1h,kk,kph","22,50",169500,7533
+Vallila,kt,1h+k+kph,"41,00",250000,6098
+Kallio,kt,1h+kk,"25,00",158000,6320
+Hermanni,kt,"1h, avokeitti&#...","28,00",215000,7679
+Punavuori,kt,Ih+tk,"29,00",325000,11207
+Kumpula,kt,1h + avok. + kph ,"30,20",220000,7285
+Aurinkolahti,kt,1h+kt+alkovi+pa...,"32,50",191000,5877
+Kallio,kt,"1h, keittiö...","42,00",276000,6571
+Töölö,kt,1h + kk,"22,00",215000,9773
+Lauttasaari,kt,1h+kk,"27,50",225000,8182
+Etelä-haaga,kt,"1h k, kph, alkovi","29,00",205000,7069
+Ullanlinna,kt,"1h, k, alk, kph","37,90",325000,8575
+Etu-töölö,kt,"1 h, keitti...","40,70",345000,8477
+Kallio,kt,"1h,k, alkovi","41,00",261000,6366
+Punavuori,kt,"1 h, k, alkovi, kh","44,50",340000,7640
+Munkkiniemi,kt,"1h, kk","20,00",185000,9250
+Kallio,kt,"1h, kk, kph, er...","30,00",220000,7333
+Oulunkylä,kt,1h+k,"33,00",142000,4303
+Oulunkylä,kt,1h+kt (x,"23,00",182000,7913
+Vuosaari,kt,"1h, kk, kph, p","25,70",139000,5409
+Malmi,kt,1h+kn+kph+lasit...,"34,00",128500,3779
+Kallio,kt,1h+kk+parvi+wc/kph,"25,60",230000,8984
+Taka-töölö,kt,1h+kk+kph,"21,50",170000,7907
+Vallila,kt,"1h, avok, alkov...","38,00",242000,6368
+Lauttasaari,kt,1h+keittiö...,"43,00",350000,8140
+Kallio,kt,1H+K,"33,00",274000,8303
+Vallila,kt,1h+alk.+k,"37,00",248700,6722
+Meilahti,kt,"1h, avok, kph","18,00",182000,10111
+Punavuori,kt,"1h, kk, alk, kp...","31,50",250000,7937
+Kallio,kt,"1h, keittiö...","35,00",246000,7029
+Vallila,kt,"1h, k","40,00",254000,6350
+Jätkäsaari,kt,"1h, avok, lasit...","23,50",269000,11447
+Puotila,kt,"1huone, alkovi,...","24,00",127000,5292
+Töölö,kt,1h+kk+kph,"25,00",197000,7880
+Taka-töölö,kt,"1h, alkovi, kk,...","27,00",225000,8333
+Kamppi,kt,1h+k+vh+kph,"31,00",245000,7903
+Pihlajamäki,kt,"1h, pk,kh,a","35,00",132000,3771
+Lauttasaari,kt,1h+k+kph,"37,00",250000,6757
+Etelä-haaga,kt,"1h, kk, parv","25,00",191000,7640
+Etelä-haaga,kt,"1h,kk, kph","27,00",195000,7222
+Alppiharju,kt,1h ja kk,"29,00",227000,7828
+Etu-töölö,kt,1h+kk (yj:n muk...,"36,00",260000,7222
+Etelä-haaga,kt,1-2h+kk+kph+ran...,"40,00",225000,5625
+Laajasalo,kt,"1h,alk.kk,kph,e...","35,50",145000,4085
+Käpylä,kt,"1 h, kt, kh, al...","23,50",193500,8234
+Kruununhaka,kt,1h+kk,"25,50",255000,10000
+Etelä-haaga,kt,"1h, kk, kh","28,00",190000,6786
+Kamppi,kt,1 h+kk+alk,"34,50",248500,7203
+Kallio,kt,"1 h, k, kph","35,00",245000,7000
+Kamppi,kt,"1h, avok, kph","24,50",220000,8980
+Kannelmäki,kt,1h + kk,"25,00",135000,5400
+Pitäjänmäki,kt,"1h, k, alk, p","35,00",120000,3429
+Pajamäki,kt,1 h+kk,"27,00",159000,5889
+Ullanlinna,kt,"1h, kk","32,00",265000,8281
+Töölö,kt,1h+kk+kh,"25,00",245000,9800
+Pasila,kt,1h+kt,"27,00",229000,8481
+Kamppi,kt,1 h+k+kph,"19,00",207000,10895
+Kallio,kt,"1h, k, kph","38,00",240000,6316
+Alppiharju,kt,1h+alk+et+wc,"29,00",247000,8517
+Vallila,kt,"1h, avok., alko...","32,00",255000,7969
+Tapulikaupunki,kt,1h+kk,"34,00",121000,3559
+Torkkelinmäki,kt,1h + k + kph,"36,00",380000,10556
+Etu-töölö,kt,"1h,minikeitti&#...","20,00",205000,10250
+Etu-töölö,kt,"1h, avok, kph, et","25,00",225000,9000
+Alppila,kt,"1 h, avok, psh","28,00",190000,6786
+Toukola,kt,"1h, avok ja ter...","29,00",207000,7138
+Pukinmäki,kt,"1h, kk, parveke","32,00",155000,4844
+Ullanlinna,kt,"1h, kk, sh","24,00",235000,9792
+Kamppi,kt,1h+kk+kph,"25,00",248000,9920
+Pihlajisto,kt,1h+kt,"28,00",293690,10489
+Tapulikaupunki,kt,1h+kk,"30,00",123000,4100
+Alppila,kt,"1h,k","40,10",255150,6363
+Vallila,kt,"1h, kk alkovi, kph","25,00",189000,7560
+Alppiharju,kt,1h+kt+kph+et,"24,00",221000,9208
+Kallio,kt,"1h, k, alkovi","40,00",270000,6750
+Roihuvuori,kt,"1h, avok, kph, ...","25,50",178000,6980
+Kallio,kt,1h+k+kph,"35,00",255500,7300
+Herttoniemi,kt,1h+kk+kh,"27,60",202000,7319
+Lauttasaari,kt,1h+kk+kph,"21,00",189000,9000
+Punavuori,kt,1h+kk+kph,"21,50",240000,11163
+Hermanni,kt,"1h, k ja kph","29,00",208000,7172
+Roihuvuori,kt,"1h, avokeitti&#...","36,50",205050,5618
+Alppila,kt,"1h, k, alk","39,00",285000,7308
+Meilahti,kt,"1h, kt, kph","20,40",175000,8578
+Harju,kt,1h+kk,"22,00",173500,7886
+Laajasalo,kt,"1 h, kk ja lasi...","23,50",160000,6809
+Vallila,kt,1h+kk,"25,00",202000,8080
+Vallila,kt,"1h, kk, kph","31,50",200000,6349
+Alppikylä,kt,1h+avok+kph+p,"28,00",146000,5214
+Koskela,kt,"1h, kk, alkovi,...","28,50",188000,6596
+Konala,kt,"1-2 h, kk, kph,...","31,00",113000,3645
+Kamppi,kt,1h+k+vh+kph,"40,00",320000,8000
+Kamppi,kt,"1h, kk","31,50",275000,8730
+Lauttasaari,kt,"1h,kk,kph,vh, l...","28,00",210000,7500
+Vallila,kt,1h + k + parvi ...,"36,00",244999,6806
+Puotila,kt,1h+kk+kh,"31,00",130200,4200
+Tapanila,kt,"1h, ikk. kk, kph","29,00",135000,4655
+Tammisalo,kt,1h+kk+kph+lasit...,"31,00",125000,4032
+Kamppi,kt,1h+kk,"32,00",314000,9813
+Hakaniemi,kt,"1h, avok, kph","22,00",170000,7727
+Taka-töölö,kt,"1h, kk, kh","26,00",238000,9154
+Taka-töölö,kt,"1 h, kt, kh","30,00",270000,9000
+Ullanlinna,kt,"1h, alk., kk, kh","33,00",266000,8061
+Reimarla,kt,1h+kk+parveke,"29,00",134000,4621
+Puotila,kt,"1h, kk, kph, vh, p","37,50",115000,3067
+Taka-töölö,kt,"1h, avok ja kph","20,00",172000,8600
+Kalasatama,kt,"1h, avok, lasit...","21,00",238000,11333
+Pohjois-haaga,kt,"1h, k, vh, piha.","29,00",175000,6034
+Kruununhaka,kt,1h+kk+kph,"30,00",275000,9167
+Etelä-haaga,kt,1 h+ks,"20,00",161000,8050
+Punavuori,kt,"1h, k, kph","36,50",350000,9589
+Alppila,kt,1h+kk,"18,00",148000,8222
+Etu-töölö,kt,1 h,"29,50",255000,8644
+Ullanlinna,kt,"1h, eteiskeitti...","31,00",251000,8097
+Kallio,kt,"1h, alkovi, kk,...","35,50",301000,8479
+Kamppi,kt,"1h, k, kph","36,00",300000,8333
+Kallio,kt,"1h, kk","25,00",197500,7900
+Haaga,kt,"1h, kk","26,00",162000,6231
+Maunula,kt,1 h + kk + kph ...,"27,00",150000,5556
+Koskela,kt,1h+k,"35,00",148000,4229
+Kontula,kt,"1h, kk","31,00",145000,4677
+Mellunkylä,kt,1h+avok.,"35,50",171000,4817
+Hermanni,kt,1h+kk,"28,00",209500,7482
+Lassila,kt,"1h, kk, alkovi,...","35,50",150000,4225
+Kamppi,kt,1h+kk+kph,"22,00",230100,10459
+Kamppi,kt,1h+avokeitti...,"32,00",265000,8281
+Töölö,kt,"1h, k, kph, ran...","33,00",291000,8818
+Etu-töölö,kt,"1-2h, avok, kph","42,00",327600,7800
+Kallio,kt,"1h, kk, kph","18,00",176000,9778
+Taka-töölö,kt,"huone, avok, kph","30,00",221000,7367
+Munkkiniemi,kt,1h + kk+ kph,"34,50",225500,6536
+Kamppi,kt,"1 h, k, alk, kph","43,00",329000,7651
+Ullanlinna,kt,1h+avok+alkovi+...,"47,00",385000,8191
+Kuninkaantammi,kt,,"12,00",15000,1250
+Kallio,kt,1h+kk+kph+parvi,"19,00",150500,7921
+Meilahti,kt,1 h+kk+kph,"20,00",166000,8300
+Punavuori,kt,1h+avokeitti...,"25,00",235000,9400
+Taka-töölö,kt,1h+kk,"20,00",190000,9500
+Kallio,kt,"1h, kk, kph, vh...","25,50",220000,8627
+Etelä-haaga,kt,"1h, kk, kph, las.p","25,60",190500,7441
+Munkkivuori,kt,1h+kk+kph+ransk.p,"28,50",212000,7439
+Alppiharju,kt,1h+avokeittiö,"31,00",236000,7613
+Vuosaari,kt,"1h, k, kph, vh,...","37,50",163000,4347
+Kallio,kt,"1h, avok, alk, kph","38,00",270000,7105
+Sörnäinen,kt,1h+avok+kph,"27,00",205000,7593
+Munkkiniemi,kt,"1h, avok, kph","28,00",220000,7857
+Kamppi,kt,"1h, k, kph, parvi","29,50",281000,9525
+Kallio,kt,"1h,alk,keitti&#...","46,10",316500,6866
+Alppila,kt,1h+kk,"27,00",210000,7778
+Kallio,kt,"1h, avokeitti&#...","24,50",219676,8966
+Kallio,kt,1h+kk,"29,50",254000,8610
+Munkkiniemi,kt,"1h, avok, kph, ...","36,00",293000,8139
+Punavuori,kt,1h+kk,"22,60",196000,8673
+Etelä-haaga,kt,"1h, alkovi, kk,...","27,00",178000,6593
+Lauttasaari,kt,"1h, avokeitti&#...","30,00",190000,6333
+Arabianranta,kt,1h + kk + kph + p,"34,50",235000,6812
+Kamppi,kt,1 h+kk+alk,"31,00",270000,8710
+Hermanni,kt,"1h, kk, kph, vh","28,00",177000,6321
+Punavuori,kt,1h + kk,"21,20",155000,7311
+Lauttasaari,kt,1h+kk,"22,50",199000,8844
+Torkkelinmäki,kt,"1h,k,kph","53,00",340000,6415
+Etu-töölö,kt,1h+kk+kph+et,"23,00",225000,9783
+Punavuori,kt,1h,"29,20",236000,8082
+Munkkiniemi,kt,1h+kk+kph+parveke,"33,00",267300,8100
+Taka-töölö,kt,"1h,kk,kh,alkovi","40,00",320000,8000
+Kamppi,kt,"1h, avok, kph","20,00",226000,11300
+Laakso,kt,"1h, kk","24,00",211000,8792
+Kallio,kt,1h+kk,"28,00",210000,7500
+Malmi,kt,1h+kk+alkovi+kp...,"39,00",185000,4744
+Kamppi,kt,1h+k,"41,00",353300,8617
+Harju,kt,"1h, avok, kph","22,00",186000,8455
+Ullanlinna,kt,1h+avok+kph,"24,00",205000,8542
+Punavuori,kt,"1h, k","44,00",323000,7341
+Pitäjänmäki,kt,1h+k+kph+p (yj:...,"33,50",126800,3785
+Etelä-haaga,kt,"1h, kk, kph, vh...","30,70",212000,6906
+Kallio,kt,1h+kt,"41,00",323218,7883
+Kamppi,kt,"1h, kt, kph","25,50",225000,8824
+Käpylä,kt,1h +kk + kph,"26,50",178000,6717
+Mellunmäki,kt,"1h, k, kph/wc (...","33,50",109000,3254
+Katajanokka,kt,"1h, avok, kph","29,00",262000,9034
+Puotinharju,kt,1h+kk,"31,00",132000,4258
+Munkkiniemi,kt,"1h, kk, kph","34,50",212178,6150
+Etelä-haaga,kt,"1h, avok, alkov...","23,00",185000,8043
+Etelä-haaga,kt,"1h, kk, kph, pa...","27,40",211000,7701
+Munkkiniemi,kt,"1h, avok, kph, ...","30,50",390000,12787
+Vallila,kt,"1-2h, k, alk., ...","48,00",284000,5917
+Kalasatama,kt,,"28,00",265000,9464
+Lassila,kt,"1h, kk, kph, vh...","30,50",160000,5246
+Töölö,kt,1h + k,"48,00",361000,7521
+Kaarela,kt,"1h, kk","23,00",140000,6087
+Itäkeskus,kt,1h+kk,"33,00",124000,3758
+Kluuvi,kt,"1h, kk, kph, vh","24,00",250000,10417
+Pihlajamäki,kt,1 h+avokeitti&#...,"32,00",118000,3688
+Malmi,kt,"1h, k, kph/wc ,...","35,00",109000,3114
+Lauttasaari,kt,1h+keittiö...,"43,00",286000,6651
+Munkkivuori,kt,1H+KK,"22,00",145000,6591
+Ylä-malmi,kt,"1h, kk, parveke","30,50",135000,4426
+Torkkelinmäki,kt,"1h, avok, kph","25,50",200000,7843
+Lauttasaari,kt,1h+kt+viherhuone,"30,50",301000,9869
+Kallio,kt,"1h, kk, kph, ra...","33,50",220000,6567
+Taka-töölö,kt,1h+kk,"20,50",188500,9195
+Lauttasaari,kt,1 h + kk,"22,00",198000,9000
+Töölö,kt,1h+alkovi,"26,80",206500,7705
+Pukinmäki,kt,"1h, k, kph, vh,...","29,00",127000,4379
+Konala,kt,1h+kk,"31,00",155000,5000
+Malmi,kt,1h+kk,"31,50",152500,4841
+Lassila,kt,"1h, avokeitti&#...","35,00",192000,5486
+Pihlajamäki,kt,"1h, avok, kph/wc","24,50",122500,5000
+Käpylä,kt,1h+kk+kh,"26,00",169000,6500
+Kallio,kt,"1h, avokeitti&#...","28,00",201000,7179
+Ullanlinna,kt,1h + kk,"24,00",235000,9792
+Maunula,kt,"1h, kk Yj. muka...","24,10",167500,6950
+Länsi-pakila,kt,"1h, kk, kph, p ...","31,30",195000,6230
+Ullanlinna,kt,"2 h, avokeitti&...","34,10",280000,8211
+Punavuori,kt,"1h, k, alkovi, kph","42,00",385000,9167
+Lauttasaari,kt,1h+kk,"30,00",235000,7833
+Lassila,kt,"1h, kk, kph, s,...","37,00",155000,4189
+Meilahti,kt,"1 h, kk, kh, wc...","23,00",175000,7609
+Etelä-haaga,kt,"1h, kk, kph, pa...","25,00",180000,7200
+Kallio,kt,1h+kk+kph,"26,00",200000,7692
+Munkkiniemi,kt,1h +kk,"30,00",220000,7333
+Ullanlinna,kt,"1h,k","42,00",440000,10476
+Kamppi,kt,"1h, avok, kph","21,50",230000,10698
+Torkkelinmäki,kt,"1h, avok, et, kph","32,50",267000,8215
+Kallio,kt,"1h, avok, wc","22,00",156000,7091
+Kalasatama,kt,"1h, avok, lasit...","23,00",250000,10870
+Kallio,kt,"1h, avok, kph, ...","25,00",205000,8200
+Pajamäki,kt,1h+kk,"31,00",182000,5871
+Pasila,kt,"1h,kt","27,00",198500,7352
+Hermanni,kt,"1h, k, kph, alk...","41,00",271099,6612
+Alppila,kt,"1h, avok, kph","51,00",378000,7412
+Alppila,kt,"1h, kk","23,00",169550,7372
+Kallio,kt,1h+kk,"29,00",228000,7862
+Mellunmäki,kt,"1h, kt, kph","30,00",115000,3833
+Oulunkylä,kt,"1h, kk, kph, pa...","33,00",163500,4955
+Etelä-haaga,kt,1h,"25,50",180000,7059
+Etelä-haaga,kt,"1h, avok., kph,...","31,00",207000,6677
+Etelä-haaga,kt,1h+kk,"24,00",119000,4958
+Käpylä,kt,"1h,avok, kph, l...","36,00",227479,6319
+Kallio,kt,"1 h, avok, pien...","22,80",148000,6491
+Munkkivuori,kt,1h+kk+kph+vh,"31,70",205000,6467
+Ullanlinna,kt,1h+k+kph,"49,80",420000,8434
+Kallio,kt,"1h, kk, kph","21,00",165000,7857
+Kamppi,kt,1h+kk+kph,"21,50",238650,11100
+Kallio,kt,1h+tk+kph,"28,00",217700,7775
+Sörnäinen,kt,"1h, avok, kph","29,00",235000,8103
+Vallila,kt,"1h, k, alk, kph","33,00",205000,6212
+Lassila,kt,"1h, avokeitti&#...","37,00",178000,4811
+Etelä-haaga,kt,"1h, kk ja vh","26,00",192000,7385
+Alppila,kt,1h+kk+kph+vh+ra...,"28,00",212000,7571
+Sörnäinen,kt,"1h, avok. ja parvi","31,40",268000,8535
+Ullanlinna,kt,1h+avok+kph (yj...,"34,00",310000,9118
+Eira,kt,"1h, k, alokovi,...","35,00",350500,10014
+Lauttasaari,kt,"1h, kk, kph","23,00",212000,9217
+Herttoniemi,kt,1h+kk+kph,"27,00",174000,6444
+Tapaninvainio,kt,"1h,kk,kph,p (yh...","30,50",137500,4508
+Munkkiniemi,kt,"1h, kk","39,00",235000,6026
+Kallio,kt,"1h, avok, kph/wc","16,00",181000,11313
+Kamppi,kt,1h+kk,"24,50",212000,8653
+Konala,kt,1h+kk,"27,50",136000,4945
+Etu-töölö,kt,"1h, avok, alkov...","28,50",287000,10070
+Pukinmäki,kt,"1h,kk,p","32,00",145000,4531
+Malminkartano,kt,1h+kk+alkovi,"36,50",131000,3589
+Punavuori,kt,"1h, kk, kph","26,00",245000,9423
+Kruununhaka,kt,"1h, k","41,00",355000,8659
+Kallio,kt,1h+kk,"24,00",192000,8000
+Kallio,kt,"1h, k, kph/ wc.","27,50",165000,6000
+Kontula,kt,"1h, avok, kph, p","30,50",180000,5902
+Ullanlinna,kt,1h+alk+avok+kph,"38,80",352000,9072
+Kluuvi,kt,1-2H+K+KPH,"43,50",430196,9890
+Kallio,kt,"1h, kk, kph, vh","25,00",190000,7600
+Kulosaari,kt,"1h, k, kph, las...","28,50",233000,8175
+Kamppi,kt,"1h, kk, kph, vh","30,00",285000,9500
+Etelä-haaga,kt,"1 h, kk, alkovi...","27,80",206000,7410
+Kannelmäki,kt,"1h,kk,p","33,50",97000,2896
+Punavuori,kt,"1h, avok, kph, ...","34,00",295000,8676
+Meilahti,kt,1h+kk,"15,30",152500,9967
+Kallio,kt,"1h,kt,kph,wc (h...","26,20",215500,8225
+Kamppi,kt,"1h, kk, kph","32,00",303000,9469
+Punavuori,kt,"1h, kk, ranskal...","25,00",252000,10080
+Taka-töölö,kt,"1h, kk, kph","28,00",225000,8036
+Kallio,kt,"1h,kk","24,50",209000,8531
+Kamppi,kt,"1h, avok., kph....","38,00",284000,7474
+Kallio,kt,1h+avok+et+kph+wc,"27,00",274000,10148
+Punavuori,kt,"1h, kk, kph, pa...","28,50",270000,9474
+Kamppi,kt,"1h, kk, kph","23,00",229000,9957
+Kallio,kt,"1h,avok,kh","38,00",229000,6026
+Taka-töölö,kt,"1h, kk, alkovi,...","32,00",257000,8031
+Kallio,kt,1h+avok.+kph,"33,50",269000,8030
+Ullanlinna,kt,"1h,k,kh, alkovi...","35,00",331000,9457
+Kamppi,kt,1h,"19,00",202500,10658
+Kalasatama,kt,"1h, avok, lasit...","23,00",269000,11696
+Maunula,kt,"1h, kk, kph, et...","24,10",167000,6929
+Vallila,kt,1h+avok+kph,"20,00",173000,8650
+Kallio,kt,"1h, kk, kph","31,00",200000,6452
+Hakaniemi,kt,"1h, avokeitti&#...","32,00",214500,6703
+Taka-töölö,kt,"1 h, kk, kh (YJ...","24,20",175000,7231
+Harju,kt,"1h, kt, kh","20,00",203000,10150
+Vartiokylä,kt,"1h, k, kph ja p...","27,00",128000,4741
+Maunula,kt,1 h + kk + kph,"28,00",160300,5725
+Koskela,kt,"1h, k","35,00",145000,4143
+Kallio,kt,"1h, kk, kh","35,50",301750,8500
+Kamppi,kt,"1h, kt, kph","13,50",157000,11630
+Roihuvuori,kt,1h+kph+keitti&#...,"23,00",116000,5043
+Itä-pasila,kt,"1h, k ja parveke!","27,00",162000,6000
+Ullanlinna,kt,1h+kk,"27,00",292000,10815
+Kallio,kt,1h+kk,"29,00",256000,8828
+Savela,kt,"1h,kk, kph, las...","30,50",140500,4607
+Vallila,kt,1h+kk+wc/kph,"30,50",225000,7377
+Itä-pasila,kt,"1 h, kk, kph, a...","35,00",210000,6000
+Kallio,kt,1h+kk+wc+suihku,"20,10",184000,9154
+Itäkeskus,kt,"1h, kk, kph/wc ...","28,50",126500,4439
+Puotila,kt,"1h, kk, vh, kph...","33,20",133500,4021
+Malmi,kt,"1 h, k, kh, p (...","28,00",150000,5357
+Munkkivuori,kt,"1H, KK, ALKOVI,...","31,70",184000,5804
+Kuninkaantammi,kt,,"12,00",13000,1083
+Alppila,kt,1h+kk+kph (yhti...,"22,50",224000,9956
+Pohjois-haaga,kt,1h+kk+kh+parv.,"32,50",168000,5169
+Sörnäinen,kt,1h+k,"38,00",265000,6974
+Punavuori,kt,"1h, avok, alk, ...","34,50",430000,12464
+Punavuori,kt,"1h,alkovi, avok...","40,00",360000,9000
+Lassila,kt,"1h, k, kph, p","35,00",167000,4771
+Etelä-haaga,kt,1h+k,"25,00",192000,7680
+Tapulikaupunki,kt,1h+kk,"29,50",103000,3492
+Töölö,kt,1h+kk+kph,"16,00",171000,10688
+Itä-pasila,kt,1h ja keittiö,"28,00",170000,6071
+Mellunmäki,kt,"1h,kk, kph, p","34,50",92000,2667
+Lauttasaari,kt,"1h, avokeitti&#...","35,00",269000,7686
+Punavuori,kt,"1h, avok, tilav...","74,00",650000,8784
+Kamppi,kt,1 h+k+kph,"19,00",209500,11026
+Vuosaari,kt,1h+alkovi+kk+kph,"23,50",125000,5319
+Tapanila,kt,"1h, kk","25,00",146000,5840
+Kalasatama,kt,"1h, avok, lasit...","27,00",239000,8852
+Punavuori,kt,"1h, avok, alk, ...","34,50",435000,12609
+Alppila,kt,"1h,avok, kph, t...","35,00",320000,9143
+Etu-töölö,kt,"1 h, kk, kph","21,20",221000,10425
+Koskela,kt,"1h, kt","28,00",220000,7857
+Kallio,kt,1h+tk+kph,"28,50",225000,7895
+Sörnäinen,kt,1h+k+alkovi,"33,00",224050,6789
+Lauttasaari,kt,1h+avok+kph/wc+...,"35,50",268000,7549
+Kallio,kt,"1h, kk, kph/wc,...","20,00",143000,7150
+Oulunkylä,kt,"1h, kk, kph","34,30",121500,3542
+Meilahti,kt,1h+ k (yj:n muk...,"36,00",289000,8028
+Kallio,kt,"1h,k","41,50",250500,6036
+Tapanila,kt,"1h, avok, kph, ...","32,00",162000,5063
+Sörnäinen,kt,"1h, keittiö...","33,50",235000,7015
+Munkkiniemi,kt,"1h, kk, kph","24,00",185000,7708
+Siltamäki,kt,1h+kk,"27,50",103000,3745
+Hermanni,kt,1h ja keittiö,"28,00",192000,6857
+Alppiharju,kt,1h+k+kph (yhti&...,"33,40",213500,6392
+Sörnäinen,kt,"1h, kph, eteine...","23,00",181000,7870
+Taka-töölö,kt,"1h, kk, kph","28,00",257000,9179
+Kallio,kt,"1h,keittosyvenn...","26,00",216000,8308
+Etelä-haaga,kt,1h+alkovi+kk+kp...,"29,00",211000,7276
+Sörnäinen,kt,"1h, keittiö...","36,00",232500,6458
+Kamppi,kt,1h+kk+alk.+lasi...,"37,50",309000,8240
+Käpylä,kt,"1h, kt","27,50",219000,7964
+Mellunkylä,kt, 1h + avok + kp...,"29,50",145000,4915
+Etu-töölö,kt,1h + kk,"23,50",241500,10277
+Kamppi,kt,1h+avokeitti...,"36,00",300000,8333
+Kamppi,kt,1h,"16,30",210000,12883
+Etu-töölö,kt,"1h, keittosyven...","19,50",225000,11538
+Alppila,kt,"1h, avok ja kph","21,00",190000,9048
+Etu-töölö,kt,"1h, kk, kph","22,00",250100,11368
+Kruunuvuorenranta,kt,1h+k+kph,"23,50",219000,9319
+Kallio,kt,"1h, avokeitti&#...","24,50",220000,8980
+Alppila,kt,"1h, kk, kph, parv","29,50",252000,8542
+Puotila,kt,1h+k,"31,00",128000,4129
+Tapanila,kt,"1h, kk, kph, p","31,50",135000,4286
+Koskela,kt,autopaikka,"12,50",25000,2000
+Ullanlinna,kt,"1-2h, avokeitti...","34,50",362500,10507
+Pihlajamäki,kt,"1h, avok, kph, p","48,00",167000,3479
+Lauttasaari,kt,1h+avok+kh,"25,00",209491,8380
+Koskela,kt,"1h, kt","30,00",222000,7400
+Kamppi,kt,"1h, kt, kph","30,00",280500,9350
+Länsi-pakila,kt,"1 h, kk, kph","32,00",156000,4875
+Harju,kt,Yksiö + kk...,"37,00",265000,7162
+Ullanlinna,kt,1h+avok+työ...,"41,00",360000,8780
+Aurinkolahti,kt,1h+kk+alk+vh+kp...,"45,50",238000,5231
+Punavuori,kt,"2 h, k, kph, et...","65,00",495000,7615
+Kallio,kt,1h+kk+kph+lasit...,"29,50",200000,6780
+Kallio,kt,"1h, avok., alko...","36,00",258000,7167
+Aurinkolahti,kt,1H+ALK+K+S,"46,00",250000,5435
+Punavuori,kt,"1h,kk,kph,alkovi","30,00",295000,9833
+Sörnäinen,kt,1h+k+kph+vh,"36,00",237000,6583
+Kamppi,kt,"1h, k, parvi, k...","42,00",383000,9119
+Hermanni,kt,1h + k,"27,00",212000,7852
+Etelä-haaga,kt,Ullakkokerros: ...,"43,50",280000,6437
+Käpylä,kt,1(-2)h+avok.+al...,"44,00",262500,5966
+Töölö,kt,"1h, kk, kph","22,00",207000,9409
+Puotinharju,kt,"1h, kk, kph","28,50",132000,4632
+Roihuvuori,kt,1h+k,"21,50",135000,6279
+Alppila,kt,1h+kk+kph,"25,50",178000,6980
+Vuosaari,kt,1h+kk,"26,00",117510,4520
+Koskela,kt,1h+k,"36,20",122500,3384
+Kallio,kt,1h+k+kph+vh+et,"42,30",280000,6619
+Vallila,kt,1h+avok+kph,"18,00",149000,8278
+Punavuori,kt,"1h, avok, wc/su...","21,00",203600,9695
+Alppiharju,kt,1h+kk+kph,"15,00",170000,11333
+Punavuori,kt,"1h, kph ja kk","19,00",206000,10842
+Kallio,kt,1h+kk+kph,"20,00",181000,9050
+Konala,kt,1h+avok+kph+p (...,"31,00",167000,5387
+Taka-töölö,kt,"1h, avok, kph, ...","48,50",327000,6742
+Kallio,kt,1h+kk+alkovi+kp...,"29,50",237521,8052
+Hietalahti,kt,"1h, kk","34,80",310000,8908
+Taka-töölö,kt,"1h, kk, kph/wc","36,00",138000,3833
+Kallio,kt,"1h, ks, kph, et...","23,00",220000,9565
+Roihuvuori,kt,"1h, kk, kph, piha","23,50",132000,5617
+Jätkäsaari,kt,1h+kt,"32,50",249132,7666
+Sörnäinen,kt,"1h, k, kph","33,50",235000,7015
+Etelä-haaga,kt,1h+kk+kh+parv,"30,50",200000,6557
+Myllypuro,kt,1h+kt+alk+parv,"39,00",207000,5308
+Meilahti,kt,1h+kk+kph,"21,00",170000,8095
+Hermanni,kt,"1h, kk, alkovi,...","33,80",244000,7219
+Hermanni,kt,"1h, avok,alkovi...","41,20",248000,6019
+Kruunuvuorenranta,kt,"1h, avok, kph, ...","29,50",219000,7424
+Kontula,kt,1h+kk,"30,00",136000,4533
+Oulunkylä,kt,"1 h, alkovi, kk...","31,00",160000,5161
+Kallio,kt,1h+kph+kell,"33,00",229381,6951
+Kallio,kt,1h+alk+k,"36,50",267000,7315
+Kallio,kt,"1h,k,kh","40,00",322000,8050
+Katajanokka,kt,1h+k+s,"41,50",260000,6265
+Lauttasaari,kt,1 h+pk,"26,50",235000,8868
+Lauttasaari,kt,1h + k,"28,50",285000,10000
+Kallio,kt,"1h, kk, alkovi","31,50",222000,7048
+Kamppi,kt,1h+avok+kph+ete...,"22,00",228500,10386
+Lassila,kt,1h+kk,"30,50",157500,5164
+Kannelmäki,kt,1h+avokeitti...,"34,50",127500,3696
+Ullanlinna,kt,"1h, k, kph","55,30",457000,8264
+Kallio,kt,"1h, kk,kph","21,80",175000,8028
+Kaartinkaupunki,kt,"1h, avok, parvi...","26,50",285000,10755
+Savela,kt,"1h, kk, alkovi,...","34,50",130000,3768
+Kruununhaka,kt,1h+avok.+kph,"41,50",350000,8434
+Herttoniemenranta,kt,1h+kt+kph+p,"25,00",192000,7680
+Konala,kt,"1h, kk, kph, la...","31,00",141000,4548
+Kluuvi,kt,"1h, avok, kph","32,00",256000,8000
+Punavuori,kt,1h+kk+kph+p,"21,00",212000,10095
+Puotila,kt,1h+kk+kph+ransk...,"26,00",128100,4927
+Ullanlinna,kt,1h+kk,"32,50",299000,9200
+Pajamäki,kt,1h+kk,"26,00",163000,6269
+Kannelmäki,kt,"1h, kk, vh, kph...","27,00",149000,5519
+Kulosaari,kt,1h+kk,"30,50",230000,7541
+Lauttasaari,kt,1h+kk,"29,00",260000,8966
+Puotinharju,kt,"1h, kk, wc/kph,...","23,50",133000,5660
+Kallio,kt,"1h, avok. kph","26,50",220000,8302
+Hermanni,kt,1h+kk+kh,"28,50",205000,7193
+Vallila,kt,1h+kk,"31,00",237000,7645
+Puotila,kt,"1h, kk, kph, p","33,00",161000,4879
+Vallila,kt,1h+k+kph,"39,50",279000,7063
+Kruununhaka,kt,"1h, k, kph, vh","50,00",370000,7400
+Meilahti,kt,1h+k+kph,"25,00",185000,7400
+Kallio,kt,1h + kk + alk,"28,00",195000,6964
+Kallio,kt,1h+kk+kh,"30,00",237250,7908
+Kruununhaka,kt,1h+k+kph,"33,00",303000,9182
+Kallio,kt,"1h, avok,parvi,kph","23,80",208000,8739
+Vallila,kt,1h+avok.+makuus...,"29,00",235000,8103
+Pasila,kt,1h + kk,"28,00",171000,6107
+Vallila,kt,1h+kk+sh/wc,"21,00",191000,9095
+Kuninkaantammi,kt,1h+kph+las.parv.,"26,00",171500,6596
+Taka-töölö,kt,"h, kk ja kph","26,50",208000,7849
+Vallila,kt,"1h, m- ka k-alk...","29,50",205000,6949
+Etelä-haaga,kt,1h+kk,"30,00",196000,6533
+Myllypuro,kt,"1h, kk, kph, al...","32,00",135000,4219
+Alppila,kt,"1h, k, kph, eri...","36,00",245000,6806
+Herttoniemi,kt,"1h, k, kph, ran...","39,10",230000,5882
+Punavuori,kt,"1h, k, alkovi, kph","40,00",372000,9300
+Sörnäinen,kt,1h+kk,"23,00",184000,8000
+Kamppi,kt,"1 h, kk ja kph","24,50",230000,9388
+Roihuvuori,kt,"1h,kt,kph (yj:1...","25,50",138500,5431
+Kallio,kt,1h+kk,"26,00",208000,8000
+Konala,kt,1h+avokeitti...,"31,00",154000,4968
+Vallila,kt,"1h, k, wc, suih...","37,50",241000,6427
+Etelä-haaga,kt,1h+kk+p,"29,00",180000,6207
+Etelä-haaga,kt,1h+avokeitti...,"26,50",193000,7283
+Laajasalo,kt,"1h, avok, kph, ...","28,50",205000,7193
+Kallio,kt,"1-2h, avok, kph","32,00",261500,8172
+Metsälä,kt,"1 h, kk (yj. 1h...","23,00",160000,6957
+Hermanni,kt,1h+avok+kph+et,"23,00",187000,8130
+Kruunuvuorenranta,kt,"1h, k, kph","24,50",239000,9755
+Hermanni,kt,"1h,k","31,00",200000,6452
+Kamppi,kt,1h+k+alkovi,"47,70",347000,7275
+Meilahti,kt,"1h, kk ja kph","20,00",170000,8500
+Etelä-haaga,kt,"1h, kk, alkovi,...","26,00",189000,7269
+Kamppi,kt,1h+k+kph,"19,00",214000,11263
+Oulunkylä,kt,1h+kt+parv.,"24,00",199700,8321
+Lauttasaari,kt,"1h, kk","26,00",228000,8769
+Etu-töölö,kt,"1h,kk","26,20",272050,10384
+Etelä-haaga,kt,"1h, kk, alkovi,...","30,00",192000,6400
+Lauttasaari,kt,"1h, avok, lasit...","34,00",332000,9765
+Alppila,kt,"1h, kk, alkovi,...","35,00",275000,7857
+Ullanlinna,kt,1h+avok+ph (yj:...,"23,00",215000,9348
+Taka-töölö,kt,"1h, avok, kph","24,00",198000,8250
+Lauttasaari,kt,1 h+k,"26,00",218000,8385
+Vuosaari,kt,"1 h, avok, kph,...","33,50",165000,4925
+Käpylä,kt,"1h, kt","28,00",195000,6964
+Itä-pasila,kt,"1h,kk,s","36,00",249900,6942
+Käpylä,kt,"1 h, k, kph","38,00",237000,6237
+Etelä-haaga,kt,1h+kk,"23,90",178550,7471
+Maunula,kt,"1 h, kk, kph/wc...","26,00",125000,4808
+Etu-töölö,kt,"1h, avok, kh","39,00",385000,9872
+Sörnäinen,kt,1h+k+kph+alkovi,"42,00",240000,5714
+Helsinki,kt,1k+k,"31,50",323000,10254
+Sörnäinen,kt,1h,"25,00",199000,7960
+Kannelmäki,kt,"1h,kk,kph","29,00",143000,4931
+Sörnäinen,kt,1h+k,"41,90",298000,7112
+Munkkiniemi,kt,1h+kk,"24,00",234000,9750
+Kallio,kt,"1h, avok, kph","25,50",208000,8157
+Etelä-haaga,kt,"1h, kk, kph, vh","28,00",200000,7143
+Puotinharju,kt,"h, kk, kph","29,00",123000,4241
+Kallio,kt,"1 h, kk, kph","30,00",220000,7333
+Punavuori,kt,"oh, avokeitti&#...","51,30",352000,6862
+Kamppi,kt,1h+k+kph,"19,00",208000,10947
+Roihuvuori,kt,1h+kk+alkovi+vh...,"31,00",180000,5806
+Kannelmäki,kt,1h+kk,"33,00",149500,4530
+Lauttasaari,kt,1h+kk+p,"34,00",197650,5813
+Alppiharju,kt,1H+KK (Yht.j...,"34,90",279000,7994
+Vallila,kt,1h+k+alk+kh,"50,50",310000,6139
+Alppila,kt,1. h+kk+kph (yh...,"22,50",199900,8884
+Taka-töölö,kt,1h+kk+kph,"26,50",210000,7925
+Lauttasaari,kt,"1 h, kk, kh","26,50",227000,8566
+Punavuori,kt,1h+avok+kph+p (...,"21,00",222000,10571
+Hermanni,kt,1h+avokeitti...,"24,50",181000,7388
+Sörnäinen,kt,"1h, kk, parvi","27,00",196000,7259
+Sörnäinen,kt,1h+kk+lasitettu...,"33,00",225000,6818
+Katajanokka,kt,"1h, kk, kph, ra...","34,00",227000,6676
+Kannelmäki,kt,"1h, kk, s, vh, ...","36,00",156000,4333
+Vuosaari,kt,"1 h, avok., kph, p","37,50",189000,5040
+Kamppi,kt,"1h, avokeitti&#...","17,60",195000,11080
+Taka-töölö,kt,"1h, kk, kph, alk.","32,00",242500,7578
+Munkkisaari,kt,1h+kk+kph,"32,00",295000,9219
+Töölö,kt,"1h, avok, kph, ...","23,60",210000,8898
+Vallila,kt,"Huone, keitti&#...","32,00",220000,6875
+Käpylä,kt,"1h, avok, kph, ...","52,50",400000,7619
+Lauttasaari,kt,"1h, avok, kph, ...","53,00",380000,7170
+Torkkelinmäki,kt,"1h, avok, kph","29,70",245000,8249
+Kallio,kt,1 h + kph,"31,50",240000,7619
+Kallio,kt,1h+ks+kh,"27,00",210000,7778
+Etelä-haaga,kt,"1 h, kk, kph","26,00",156000,6000
+Alppiharju,kt,1 h+kk,"26,00",219000,8423
+Oulunkylä,kt,"1h,kk","32,00",203000,6344
+Kannelmäki,kt,2h+k+kph+s+parv...,"48,00",214000,4458
+Malmi,kt,2h+k+s,"50,00",152000,3040
+Vuosaari,kt,2h+k+kph+vh+et+...,"53,50",140000,2617
+Viikki,kt,2h+avok.+kph/wc...,"61,50",291000,4732
+Munkkiniemi,kt,2h + kt + kph,"46,50",605000,13011
+Munkkiniemi,kt,2h+k+kph+p,"50,00",350000,7000
+Munkkivuori,kt,"2h, k, kph, vh","56,90",284000,4991
+Kamppi,kt,2 h + k,"63,00",455000,7222
+Ullanlinna,kt,2h+avok+khh+kph...,"64,50",690000,10698
+Etelä-haaga,kt,2h+kk+kph+p (yj...,"40,00",264000,6600
+Kaartinkaupunki,kt,"2h, avok., kph","35,50",370000,10423
+Herttoniemi,kt,"2h, kk","41,00",250000,6098
+Siltasaari,kt,"2h, k, kph","42,50",344000,8094
+Pikku-huopalahti,kt,"2h, avok, s, kp...","48,50",275000,5670
+Kannelmäki,kt,"2h, k, kph, vh,...","53,00",210000,3962
+Alppila,kt,2h+kk+parv.,"39,00",265000,6795
+Lauttasaari,kt,2h+avok+kph,"45,00",285000,6333
+Punavuori,kt,"2h, k, kph","45,50",560000,12308
+Viikki,kt,"2h, avok, kph, ...","48,00",235000,4896
+Kontula,kt,"2h, k, kph, p","52,50",152000,2895
+Herttoniemenranta,kt,2h+k+kph+s+las....,"55,00",290000,5273
+Munkkiniemi,kt,"2h, k, kph, et","57,00",370000,6491
+Haaga,kt,2h+k,"40,00",222000,5550
+Lauttasaari,kt,2h+kk+s+parv.,"47,00",282001,6000
+Kuninkaantammi,kt,"2h, avok, kph, ...","49,00",234000,4776
+Vuosaari,kt,2-3h+kt+s,"53,50",292000,5458
+Ullanlinna,kt,"2h, kk, kph","54,00",478000,8852
+Maunula,kt,"2 h, k, kph, vh...","58,50",243000,4154
+Kontula,kt,"2h, k, kph,eril...","59,50",140000,2353
+Herttoniemi,kt,"2h, k, kph, vh,...","48,50",230000,4742
+Konala,kt,2h+k,"50,00",185000,3700
+Munkkiniemi,kt,2h+k+kph+alkovi,"63,50",387000,6094
+Hermanni,kt,"2h, kk, kph, pa...","53,50",323000,6037
+Taka-töölö,kt,2-3h+k+kph+alkovi,"70,00",470000,6714
+Katajanokka,kt,"2h, avok, kph","37,50",270000,7200
+Kannelmäki,kt,"2h, avok, kph, ...","48,00",208000,4333
+Tammisalo,kt,"2 h, avok, kph, p","37,00",201000,5432
+Sörnäinen,kt,"2h, k, kph, 2x vh","50,00",276000,5520
+Mellunmäki,kt,2h+k,"52,50",130000,2476
+Vuosaari,kt,"2h, k, kph, las...","53,50",141500,2645
+Lauttasaari,kt,"2h,k,vh,kph,parv.","61,00",378000,6197
+Kallio,kt,2h+kk+kph,"44,00",295000,6705
+Pasila,kt,"2h, avok, kph, ...","50,00",430000,8600
+Oulunkylä,kt,"2h, kt, kph, vh...","54,00",309000,5722
+Herttoniemi,kt,"2h, kk, parveke","47,00",255000,5426
+Meilahti,kt,"2-3 h, k, kph, p","50,90",357000,7014
+Malmi,kt,"2h,kk,las.parv.","51,50",131000,2544
+Ullanlinna,kt,"2h, keittiö","53,70",525500,9786
+Munkkiniemi,kt,"2 h, k, kph, pa...","55,00",340000,6182
+Meilahti,kt,2h+k+kph+p (YJ:...,"51,00",334500,6559
+Meilahti,kt,2 h + kk,"38,00",227000,5974
+Kontula,kt,"2h, kk, kph, la...","42,00",147000,3500
+Vallila,kt,"2h, k ja lasite...","47,50",351000,7389
+Kivihaka,kt,2h+kk,"40,00",249000,6225
+Puotila,kt,"2h, k, kph, p ","52,50",167000,3181
+Kruunuvuorenranta,kt,2h+kt,"55,00",280000,5091
+Pajamäki,kt,"2h, avok, kph, ...","49,00",249000,5082
+Ullanlinna,kt,"2h, avok., vh, ...","62,50",680000,10880
+Hietalahti,kt,2h+avok+kph+et,"34,00",331000,9735
+Mellunmäki,kt,"2h, avok. ja la...","38,50",147500,3831
+Munkkiniemi,kt,"2h, avok, kph","42,00",327500,7798
+Etu-töölö,kt,"2h, avok ja kph","45,00",380000,8444
+Töölö,kt,"2h, avok","46,00",353000,7674
+Punavuori,kt,"2h, k, kph, par...","46,00",380000,8261
+Katajanokka,kt,2h+avok+kph+s+l...,"46,00",420000,9130
+Kallio,kt,"2h, keittiö...","54,00",429000,7944
+Etu-töölö,kt,1-2h+avok+kph+e...,"56,00",465000,8304
+Etu-töölö,kt,"2h, k, kph, vh ","56,00",497000,8875
+Kruununhaka,kt,"2 h+k , kph, vh...","63,50",590000,9291
+Lauttasaari,kt,2h+kk,"37,00",284000,7676
+Myllypuro,kt,"2h, k, kph, vh","44,50",150000,3371
+Viikinmäki,kt,"2h, avok, kph/w...","44,50",290000,6517
+Kannelmäki,kt,2h+kk+kph+parveke,"48,00",176000,3667
+Malmi,kt,"2h, avok, kph/w...","48,50",175000,3608
+Myllypuro,kt,2h+kk+vh+kph/wc...,"50,50",160000,3168
+Harju,kt,"2h, avok, kph","51,00",295000,5784
+Taka-töölö,kt,1-2h+avokeitti&...,"51,80",484500,9353
+Katajanokka,kt,"2h, k, kph","56,70",460000,8113
+Maunula,kt,"2h, k, kph, vh,...","58,50",251000,4291
+Malminkartano,kt,2H+AK+KPH+P,"43,00",159000,3698
+Etelä-haaga,kt,"2h,k,p (yj. 2h+kk)","44,50",230000,5169
+Puotila,kt,2h+k+kph+las.parv.,"47,00",172500,3670
+Myllypuro,kt,"2h,k, lasitettu...","61,50",194000,3154
+Ullanlinna,kt,"2h, keittiö","69,00",520000,7536
+Ullanlinna,kt,"2h, kk, kph","36,00",412000,11444
+Etelä-haaga,kt,2h+kk+parveke,"38,00",265000,6974
+Tapanila,kt,"2h, kk, kph, la...","39,00",210000,5385
+Munkkivuori,kt,"2h,kk,vh,ransk....","40,00",242000,6050
+Niemenmäki,kt,2h+k+kph+lasite...,"53,00",310000,5849
+Lauttasaari,kt,"2h, k, kph/wc, ...","55,00",333000,6055
+Lauttasaari,kt,"2h, k","60,50",366000,6050
+Meilahti,kt,"2h, k, kph","65,00",426000,6554
+Taka-töölö,kt,2h+k+kph+sauna,"78,00",612000,7846
+Arabianranta,kt,"2-3h, avok, s, ...","78,50",382216,4869
+Kluuvi,kt,"2h, k, kph, vh","80,00",520000,6500
+Malmi,kt,"2h,k, kph, s, l...","51,50",185000,3592
+Katajanokka,kt,"2h, tsto, kk, kph","41,50",510000,12289
+Pasila,kt,2h+avok+kph+las...,"45,00",380000,8444
+Kluuvi,kt,2h+k+kph+vh+ran...,"53,00",510000,9623
+Länsi-pasila,kt,2h+k+kph+s+parv.,"56,00",260000,4643
+Alppila,kt,"2h, k, wc, s","58,50",347000,5932
+Lauttasaari,kt,"2-3h, k, s, las...","69,00",446000,6464
+Kamppi,kt,"2h, kk, kph, et...","70,00",580000,8286
+Pukinmäki,kt,2h+kk+kph+vh+la...,"45,00",166000,3689
+Katajanokka,kt,2h+k (yhtiö...,"47,00",420000,8936
+Vallila,kt,2h+ kk,"48,00",318000,6625
+Kruununhaka,kt,"2h, k, kph","60,00",485000,8083
+Siltamäki,kt,"2h, k","62,00",150000,2419
+Punavuori,kt,"2h, avok, alkov...","70,00",696000,9943
+Oulunkylä,kt,2h+k+lasitettup...,"59,00",157000,2661
+Taka-töölö,kt,"2h, k, halli, v...","82,40",515000,6250
+Kamppi,kt,"2h, k, kph, las.p.","50,50",360000,7129
+Laajasalo,kt,"2h, k, kph, las...","55,00",213000,3873
+Hermanni,kt,2h+avok.+kph+vh+p,"37,00",260000,7027
+Meilahti,kt,2h+avok+kph,"37,50",262000,6987
+Kallio,kt,2h+k+kph,"53,00",357000,6736
+Munkkiniemi,kt,2h+k+kph+p,"64,00",445000,6953
+Kivihaka,kt,"2h, k, kph, las...","44,00",240000,5455
+Oulunkylä,kt,2h+kk+kph+vh (Y...,"45,00",235000,5222
+Kallio,kt,"2h, avok., kph,...","50,00",350000,7000
+Itä-pasila,kt,2h+k,"54,00",262000,4852
+Savela,kt,2h+kk,"45,00",172000,3822
+Pihlajisto,kt,2h+k+kph,"50,50",134000,2653
+Munkkivuori,kt,2h+k+kph+p,"53,00",338000,6377
+Puotinharju,kt,2h+k+vh+kph+p,"55,50",232000,4180
+Aurinkolahti,kt,"2h,kk,s","46,00",270000,5870
+Kalasatama,kt,"2h, avok, kph, ...","47,00",430000,9149
+Laajasalo,kt,2h+kk,"48,50",189000,3897
+Etu-töölö,kt,"2h, k, vh, kph","53,00",426000,8038
+Kamppi,kt,2h+k+kh+patio,"55,00",385000,7000
+Konala,kt,"2h, keittokomer...","43,50",150000,3448
+Kluuvi,kt,2h+k+kph,"45,50",475000,10440
+Etelä-haaga,kt,"2h, keittiö...","47,50",260000,5474
+Etelä-haaga,kt,"2h, k, kph, las.p","47,50",274000,5768
+Munkkivuori,kt,2h+k+p+kh,"49,80",241200,4843
+Aurinkolahti,kt,"2h, keittiö...","54,50",283000,5193
+Munkkiniemi,kt,2h+kk,"38,50",287000,7455
+Alppila,kt,"2h, avok, kph","34,00",220000,6471
+Konala,kt,"2h, kk, kph, vh...","44,00",168000,3818
+Kalasatama,kt,"2h, avok, kph, ...","54,50",537500,9862
+Meilahti,kt,2h+kk+kph+et,"38,00",230000,6053
+Töölö,kt,2h+kk,"39,00",282300,7238
+Sörnäinen,kt,"2h, avok, kph, ...","40,00",275000,6875
+Alppila,kt,2h+kk+kph,"41,00",215000,5244
+Myllypuro,kt,"2h, avok, kph, ...","43,50",170000,3908
+Jätkäsaari,kt,"2h, avok, kph, ...","44,00",377000,8568
+Pukinmäki,kt,"2h, kk, kph, pa...","45,00",165000,3667
+Alppila,kt,2h+k+kh,"48,00",270000,5625
+Meilahti,kt,2h + k + kph,"62,00",400000,6452
+Kamppi,kt,2 h + kk + alk ...,"41,00",370000,9024
+Arabianranta,kt,"2h,kt,kph,s,p (...","43,50",285000,6552
+Kallio,kt,"2h, kk, kph","44,00",300000,6818
+Pukinmäki,kt,"2h, kk, s, lasi...","35,50",165000,4648
+Pohjois-haaga,kt,"2h, k, parveke ...","42,50",231000,5435
+Kruununhaka,kt,2h+k+et+kph (yh...,"45,00",363000,8067
+Kallio,kt,2h+k+kph+vh+par...,"49,00",330000,6735
+Herttoniemenranta,kt,2h+k+lasitettu ...,"52,50",382000,7276
+Myllypuro,kt,"2h, k, kph, las...","56,50",185000,3274
+Lauttasaari,kt,2h+k+s+parveke,"65,50",449000,6855
+Punavuori,kt,2h+k+kph+s+las.p,"75,50",630000,8344
+Taka-töölö,kt,2h+avok+kph,"42,00",257000,6119
+Herttoniemenranta,kt,"Oh, avok, mh, s...","46,00",290000,6304
+Puotinharju,kt,2h+k+kph+vh+las.p,"54,00",195000,3611
+Vuosaari,kt,"2h, k, kph, ter...","60,00",171572,2860
+Haaga,kt,"2h,kk,kh","35,00",186781,5337
+Kallio,kt,2h+kk,"42,00",229900,5474
+Vuosaari,kt,2h+k+s,"51,50",235000,4563
+Käpylä,kt,"2h, kk","37,00",259000,7000
+Tapaninvainio,kt,"2h, k, kph/wc, ...","48,00",205000,4271
+Kallio,kt,2h+avok+kph (yh...,"46,50",299000,6430
+Roihuvuori,kt,"2h, k, kph","51,00",240000,4706
+Töölö,kt,"2h,kk","53,00",448117,8455
+Kamppi,kt,2h+kk,"39,00",300000,7692
+Mellunmäki,kt,2h + pk + parveke,"41,50",100000,2410
+Roihuvuori,kt,"2 h, k, kph, la...","52,00",225000,4327
+Kontula,kt,"2h, k","56,00",139000,2482
+Meilahti,kt,2 h + kk,"45,00",300000,6667
+Arabianranta,kt,"2 h, k, kh, vh,...","47,50",310000,6526
+Kontula,kt,"2h, kk, kph, p","53,00",161000,3038
+Vesala,kt,2h+kk,"44,50",125000,2809
+Hermanni,kt,"2h, kk, 2vh, kp...","49,00",253500,5173
+Meilahti,kt,"2h, kk, et, kph","38,00",235000,6184
+Roihuvuori,kt,"2h, avok, kph","40,00",192000,4800
+Vallila,kt,"2h, avok, kph, ...","40,00",307000,7675
+Kalasatama,kt,2H+KT,"43,00",455000,10581
+Oulunkylä,kt,"2h, kk, kph, la...","45,50",205000,4505
+Käpylä,kt,2h+avok.+kph+sa...,"46,50",349000,7505
+Meilahti,kt,2h+alkovi+k+ kph,"50,00",320000,6400
+Malminkartano,kt,"2h,k,kph,vh,las...","55,50",190000,3423
+Käpylä,kt,2h+k+khwc+p,"55,50",310000,5586
+Etelä-haaga,kt,"2h, k, kph, par...","64,00",311000,4859
+Vallila,kt,"2h, avokeitti&#...","71,00",481000,6775
+Aurinkolahti,kt,"2h, kk, kph, la...","40,50",222000,5481
+Kivihaka,kt,2h+pk+p,"40,50",240000,5926
+Vallila,kt,2h+avok.+ruokai...,"41,00",280000,6829
+Kalasatama,kt,2H+KT,"43,00",455000,10581
+Konala,kt,2h+kk+lasitettu...,"43,50",167000,3839
+Meilahti,kt,2h+kk,"45,50",327600,7200
+Roihuvuori,kt,"2 h, avok, kph,...","48,00",290000,6042
+Munkkivuori,kt,"2h, k, khh, vh,...","52,10",289000,5547
+Kallio,kt,2h+avok+vh+kph,"52,50",291000,5543
+Etu-töölö,kt,"2h, k, kph, et","56,50",489000,8655
+Siltamäki,kt,2h+k+kph+ lasit...,"63,00",125000,1984
+Taka-töölö,kt,2h+k+kph+vh,"84,00",652000,7762
+Sörnäinen,kt,"2h, avok, kph","36,00",295000,8194
+Etu-töölö,kt,"1-2h,avok,kph,v...","45,00",370000,8222
+Aurinkolahti,kt,"2h, kk, kph, s,...","48,00",265000,5521
+Vallila,kt,"2h, kt, s, las....","49,00",390000,7959
+Munkkivuori,kt,"2h, k, kph, s, ...","52,10",299000,5739
+Pihlajisto,kt,2h+k,"55,00",140001,2545
+Ullanlinna,kt,"2h, k, kph, et","59,00",505000,8559
+Maunula,kt,"2h, kk (yj. 2 h...","36,50",216000,5918
+Etelä-haaga,kt,"2h, avok, kph, p","43,50",256000,5885
+Puotila,kt,2h+k+kph+vh,"46,50",185000,3978
+Meri-rastila,kt,"2h, kk","50,50",155500,3079
+Myllypuro,kt,"2h, kk, kph, vh...","50,50",187504,3713
+Harju,kt,"2h, kk, kph","52,00",359000,6904
+Kontula,kt,2h+k+kph+vh+parv,"56,00",171000,3054
+Suutarila,kt,2h+k+kph+las.pa...,"65,00",164000,2523
+Lauttasaari,kt,"2h, k, kph, las...","55,00",275000,5000
+Oulunkylä,kt,"2h, k, kph, las...","58,00",176000,3034
+Lehtisaari,kt,"2h, k, kph, las...","63,30",238000,3760
+Etu-töölö,kt,2h+k,"65,80",465000,7067
+Töölö,kt,2 h+k,"71,00",476000,6704
+Vesala,kt,2h+k+kph+lasite...,"49,00",139000,2837
+Vuosaari,kt,"2 h, kk, kh/wc,...","52,50",155000,2952
+Herttoniemi,kt,2h+k,"53,00",293000,5528
+Kamppi,kt,"2h, kk, kph","29,00",280000,9655
+Ruskeasuo,kt,"2h, avok, kph","37,00",224000,6054
+Meilahti,kt,"2h, avokeitti&#...","46,00",497000,10804
+Oulunkylä,kt,"2h, kk, vh, las...","47,00",221000,4702
+Harju,kt,"2h, k, kph, alkovi","48,00",295500,6156
+Mellunmäki,kt,"2h, k, kph + la...","51,50",160000,3107
+Käpylä,kt,"2h, k, kph, vh,...","56,00",345000,6161
+Hakaniemi,kt,"2h, k, kph, vh, p","64,00",419000,6547
+Eira,kt,"2h,kk,s","42,00",450000,10714
+Ylä-malmi,kt,"2h, k, lasitett...","49,00",135000,2755
+Vallila,kt,"2h, k, kph, vh","51,50",350000,6796
+Lauttasaari,kt,"2h, k, lasitettu p","56,00",399000,7125
+Roihuvuori,kt,"2h, avokeitti&#...","56,50",260000,4602
+Viikinmäki,kt,"2h, k, s + lasi...","60,00",300000,5000
+Alppiharju,kt,2h+iso keitti&#...,"61,00",265000,4344
+Malmi,kt,2h+kk+s,"41,00",168000,4098
+Oulunkylä,kt,2h+kk,"45,00",221000,4911
+Kamppi,kt,"2h, alkovi, kk,...","45,00",315000,7000
+Kallio,kt,2h+kk+kph,"46,00",240000,5217
+Taka-töölö,kt,"1h, k, kph, eri...","48,50",350000,7216
+Kannelmäki,kt,2h+k,"51,00",210000,4118
+Pajamäki,kt,"2h, k, kph,vh, ...","53,80",238000,4424
+Vesala,kt,"2h, kk, kph, p","44,00",115000,2614
+Alppikylä,kt,2h+avok+kph,"47,00",212000,4511
+Pajamäki,kt,2h+k,"48,00",223000,4646
+Malminkartano,kt,2h+k+s+kph+et+l...,"59,50",157000,2639
+Punavuori,kt,2h+keittiö,"60,50",460000,7603
+Oulunkylä,kt,2h+k+s+terassipiha,"61,00",343000,5623
+Töölö,kt,2h+alkovi+kk+kp...,"65,50",480000,7328
+Pihlajamäki,kt,2h+kk (yht.j...,"39,00",124000,3179
+Punavuori,kt,2h+avok+kph (yj...,"47,50",425000,8947
+Vuosaari,kt,2h +k,"59,00",145000,2458
+Sörnäinen,kt,"2h, avok, kph, vh","42,50",336000,7906
+Hakaniemi,kt,2h+kt,"42,50",399000,9388
+Punavuori,kt,"2h, avok, kph","43,00",359000,8349
+Puotinharju,kt,2 h+k+lasit.par...,"50,00",135000,2700
+Mellunmäki,kt,"2h, k, kph, par...","51,50",146000,2835
+Kamppi,kt,"2h, avok, kph, ...","53,00",502000,9472
+Kruununhaka,kt,"2h, k, kph","56,50",589000,10425
+Punavuori,kt,"2h, k, kph, s, ...","67,00",615000,9179
+Tammisalo,kt,2h+k+kph,"40,00",245000,6125
+Hermanni,kt,2h+k+kph,"45,20",279000,6173
+Puotila,kt,2h+k+kh+parv,"47,00",145000,3085
+Sörnäinen,kt,"2 h, avok, kph","50,00",258000,5160
+Vuosaari,kt,"2h, k","54,00",155000,2870
+Myllypuro,kt,"2-3h, k, kph, v...","70,90",223000,3145
+Vallila,kt,2h+kk+kph,"41,00",270000,6585
+Vuosaari,kt,"2h, kk, kph, sa...","45,00",192500,4278
+Punavuori,kt,"2h, k, rt, kph,...","52,00",623000,11981
+Kannelmäki,kt,2h+kk+parveke,"40,00",177000,4425
+Lauttasaari,kt,2 h+kk+kph+p,"55,00",429621,7811
+Tapulikaupunki,kt,"2 h, k, kph, la...","63,00",141000,2238
+Lauttasaari,kt,"2h, avok, kph, ...","44,00",332000,7545
+Mellunmäki,kt,"2h, k, kph, vh,...","51,50",110005,2136
+Myllypuro,kt,"2h, k, kph, vh,...","52,50",174000,3314
+Ruskeasuo,kt,"1r, stugkö...","40,00",278000,6950
+Etelä-haaga,kt,2h+kk+p,"43,00",235000,5465
+Kallio,kt,"2h, avok, kph, p","45,50",325000,7143
+Vuosaari,kt,2h+k+kph+vh+par...,"49,50",148500,3000
+Jätkäsaari,kt,2h+k+s,"62,00",358011,5774
+Kallio,kt,"2 h, kk, kph, vh","38,50",265000,6883
+Puotila,kt,2h+k+kh+p,"51,00",194000,3804
+Pasila,kt,2h+kk+s,"53,00",269000,5075
+Herttoniemi,kt,2h+avokeitti...,"54,50",265000,4862
+Kurkimäki,kt,2h+k,"55,50",122000,2198
+Malmi,kt,"2h, k, kph, s, ...","45,50",211000,4637
+Etu-töölö,kt,"2h, kk, kph, wc...","57,00",478000,8386
+Etu-töölö,kt,"2h, kk, halli","59,10",380000,6430
+Alppila,kt,"2h, avok","40,00",300000,7500
+Arabianranta,kt,2h+kk+ terassipiha,"41,50",293500,7072
+Pajamäki,kt,"2h, k, kph, vh,...","53,80",242000,4498
+Ullanlinna,kt,"2h, k, kph, vh, p","52,00",515000,9904
+Ullanlinna,kt,"2h, k, ","63,00",730500,11595
+Lauttasaari,kt,2h+pk,"50,00",300000,6000
+Vuosaari,kt,2h+k,"51,00",145000,2843
+Käpylä,kt,"2h, kk, kph","41,00",279000,6805
+Munkkiniemi,kt,2h+kk+kph+p,"41,00",310000,7561
+Munkkiniemi,kt,"2h, avok, kph, p","42,00",304000,7238
+Kallio,kt,"43,5","43,50",257500,5920
+Ullanlinna,kt,"2h, avok, kph","44,00",504240,11460
+Kivikko,kt,"2h, avok, kph, ...","45,00",189000,4200
+Lauttasaari,kt,"1h, avok, kph, ...","59,50",460000,7731
+Alppiharju,kt,2h+avokeitti...,"36,60",310000,8470
+Meilahti,kt,2h+avok+kph+vh,"40,00",295000,7375
+Meilahti,kt,"2h, avokeitti&#...","46,00",483000,10500
+Jätkäsaari,kt,"2h, kk, kph, s,...","47,50",293481,6179
+Aurinkolahti,kt,"2h,k,s, lasitet...","48,00",263000,5479
+Herttoniemenranta,kt,2h+k+terassi,"55,00",409000,7436
+Aurinkolahti,kt,2h+k+s,"56,00",252796,4514
+Aurinkolahti,kt,2h+kk+s,"56,00",268000,4786
+Vesala,kt,"2h, k, s","57,50",175000,3043
+Etu-töölö,kt,"2h, k, kph, wc","59,80",425000,7107
+Munkkiniemi,kt,2h+halli+k+kph,"61,20",425000,6944
+Etu-töölö,kt,"2h, avok, etein...","73,50",587000,7986
+Vallila,kt,"2h, k, kph","31,00",190000,6129
+Taka-töölö,kt,"2h, alkovi, kk,...","40,00",291000,7275
+Länsi-pasila,kt,"2h, avok, kph j...","45,00",257000,5711
+Etelä-haaga,kt,2h+avok+kph+p (...,"46,00",292000,6348
+Kallio,kt,"2h, avok, kph","47,00",395000,8404
+Taka-töölö,kt,2h+k+kph+vh (yj...,"47,50",379000,7979
+Pohjois-haaga,kt,"2h, k, kph, par...","49,00",246000,5020
+Kruununhaka,kt,"2h, k, kph","50,00",390000,7800
+Kallio,kt,"2h, k, kph","51,50",346000,6718
+Maunula,kt,"2h, k, kph, vh,...","53,70",237000,4413
+Konala,kt,2h+k+s,"55,50",202000,3640
+Etelä-haaga,kt,2h+kk+kph+p,"42,00",235000,5595
+Sörnäinen,kt,"1h, avok, kph, ...","48,00",310000,6458
+Aurinkolahti,kt,"2h, k, s, lasit...","50,00",310000,6200
+Viikki,kt,"2h, avok, kph, ...","52,00",235000,4519
+Roihuvuori,kt,2h+k+parveke,"53,00",255000,4811
+Ullanlinna,kt,"3h yj:n mukaan,...","65,50",650000,9924
+Itäkeskus,kt,2h+k+s,"53,00",154000,2906
+Mellunmäki,kt,"2h, k, kph, las...","55,00",165000,3000
+Ylä-malmi,kt,"2h,k,kh,vh,sauna","57,50",210000,3652
+Malmi,kt,"2h,h,ransk.parv.","52,00",105000,2019
+Kallio,kt,"2h, k","46,50",370000,7957
+Siltamäki,kt,2h+pk,"50,00",92500,1850
+Pitäjänmäki,kt,"2 huonetta, avo...","50,00",302000,6040
+Munkkivuori,kt,"2 h, k, kh, ran...","50,40",290000,5754
+Katajanokka,kt,2h+kk+vh+kph,"62,00",486000,7839
+Ullanlinna,kt,"2h, avok, kph, ...","43,50",333000,7655
+Ruskeasuo,kt,"2h,k, lasitettu...","51,00",420000,8235
+Ullanlinna,kt,2h+k,"52,00",480000,9231
+Munkkiniemi,kt,"2 h, k, kph, pa...","53,20",357000,6711
+Savela,kt,"2 h, k, kph, p ...","57,50",185000,3217
+Puotila,kt,"2h, k, kph, p","57,50",190000,3304
+Kallio,kt,2h+kk+p (Yht.j&...,"37,50",291000,7760
+Etu-töölö,kt,"2h, avok, kph, wc","44,40",361000,8131
+Pitäjänmäki,kt,2h+k,"45,00",237500,5278
+Siltamäki,kt,"2h, kk","48,50",108000,2227
+Pukinmäki,kt,2h+k+s,"55,00",198000,3600
+Kurkimäki,kt,"2h, k, kph/suih...","57,00",170000,2982
+Savela,kt,2h+k+kph+p (YJ:...,"58,50",195000,3333
+Katajanokka,kt,2h+k+parveke,"62,50",373000,5968
+Etu-töölö,kt,"1-2h, kk, alkov...","40,00",334000,8350
+Laakso,kt,"2h, k, kph, par...","47,50",340000,7158
+Pohjois-haaga,kt,"2h, avokeitti&#...","52,00",283000,5442
+Laajasalo,kt,2h + kk,"39,00",212200,5441
+Herttoniemenranta,kt,2h+kt+kph+s+parv,"41,50",269000,6482
+Laakso,kt,"1-2h, avokeitti...","43,00",326000,7581
+Tapaninvainio,kt,"2h,k","50,00",158500,3170
+Pohjois-haaga,kt,"2 h, k, kph ja ...","53,00",250000,4717
+Oulunkylä,kt,"2h, k ja lasite...","58,00",146500,2526
+Aurinkolahti,kt,"2h, avok, sauna...","58,00",270000,4655
+Siltamäki,kt,"2h, k, kph,wc,v...","63,50",115000,1811
+Alppila,kt,2h,"38,00",258000,6789
+Harju,kt,"2h, avok, kph","44,00",320000,7273
+Kallio,kt,"2h, k, kph, vh,...","54,10",392500,7255
+Haaga,kt,2h+avok+kph,"32,00",153000,4781
+Meilahti,kt,2h + kk + kph,"39,00",279000,7154
+Lassila,kt,"2h, avokeitti&#...","44,00",285000,6477
+Myllypuro,kt,"2h, kph, vh, la...","52,50",175000,3333
+Lassila,kt,"2h, avok, kph, ...","57,50",260000,4522
+Oulunkylä,kt,"2h, k, s, laist...","58,00",274000,4724
+Konepaja,kt,"2h, avokeitti&#...","45,50",362000,7956
+Vuosaari,kt,"2h, k, vh, kph,...","51,50",147000,2854
+Oulunkylä,kt,2h+k,"56,00",203000,3625
+Viikki,kt,"2h,avok,kph,s,l...","56,50",286000,5062
+Herttoniemenranta,kt,2h+k+s+vh+lasit...,"58,00",417000,7190
+Kontula,kt,2h+k+vh+kph+eri...,"59,50",170000,2857
+Lauttasaari,kt,"2h, avok, lasit...","40,50",373000,9210
+Sörnäinen,kt,2h,"44,50",270000,6067
+Myllypuro,kt,"2h, kk, kph, la...","50,50",170000,3366
+Herttoniemi,kt,"2h, k, kph ","55,50",265000,4775
+Tapulikaupunki,kt,2h+k+kph+parv. ,"58,50",140000,2393
+Hakaniemi,kt,"2h, k, kph, vh, p","65,00",465000,7154
+Vesala,kt,2h/avokeitti...,"49,00",141500,2888
+Herttoniemenranta,kt,2h+k+lasitettu ...,"52,00",383000,7365
+Vuosaari,kt,"2h, k, kph, vh,...","54,00",147000,2722
+Myllypuro,kt,2h + avok + saa...,"59,00",258700,4385
+Kalasatama,kt,"2h, avok, kph, ...","40,50",386000,9531
+Pikku huopalahti,kt,2h+kk+s,"51,00",326000,6392
+Alppila,kt,2h+k+wc/kph+par...,"61,00",360000,5902
+Lauttasaari,kt,2 h + avokeitti...,"65,00",419000,6446
+Konala,kt,2h+avok+kph+p,"43,50",205000,4713
+Kallio,kt,2h+kk,"50,00",323000,6460
+Myllypuro,kt,2h+kk+vh+kph+la...,"50,50",189000,3743
+Lassila,kt,2 h+k+kph+s+las...,"55,50",207000,3730
+Vuosaari,kt,"2h, k, kph, ter...","59,00",155000,2627
+Länsi-pasila,kt,"2 h, k, s, lasi...","64,00",294000,4594
+Katajanokka,kt,"2h, avok, kph, vh","34,00",349080,10267
+Taka-töölö,kt,1h+avok.+ kph (...,"40,00",308000,7700
+Pihlajamäki,kt,2h+kk+kph+parveke,"45,50",167000,3670
+Herttoniemi,kt,2h+k,"47,00",250000,5319
+Vuosaari,kt,2h + kk,"50,00",180000,3600
+Kallio,kt,"2h,alkovi, avok...","50,00",405000,8100
+Punavuori,kt,2h+k+palv.h+ull...,"76,00",730000,9605
+Kallio,kt,"2h,kk,kh","60,50",365000,6033
+Punavuori,kt,"2h, k, kph","50,50",333000,6594
+Lassila,kt,2h + k + lasite...,"55,00",210000,3818
+Kallio,kt,"2h,kt,kph,s,par...","62,00",540000,8710
+Etu-töölö,kt,"2h, k, rt, alkovi","77,50",564000,7277
+Sörnäinen,kt,"2h, kk, kph/wc, vh","43,00",268000,6233
+Kannelmäki,kt,2h + k,"51,00",200000,3922
+Punavuori,kt,"2h, avok,kph,wc","48,00",434500,9052
+Munkkivuori,kt,"2h, k, kph, par...","49,00",294000,6000
+Etelä-haaga,kt,"2h, k, kph, vh, p","52,00",279000,5365
+Lauttasaari,kt,"2h, avok, lasit...","56,50",379000,6708
+Pihlajamäki,kt,"2 h, kk, kph, r...","40,50",145000,3580
+Hermanni,kt,2h+avok+kph,"45,00",298000,6622
+Konepaja,kt,2h+kt+s+ranskal...,"45,50",360000,7912
+Maunula,kt,2h+k,"55,40",160000,2888
+Puotinharju,kt,2h+k+vh+kph+p,"55,50",160000,2883
+Tapanila,kt,"2h, kk, las.parv.","43,50",156000,3586
+Meilahti,kt,2h+kk,"50,00",280000,5600
+Vuosaari,kt,2h+k,"53,00",166000,3132
+Pihlajisto,kt,2h+k,"59,50",163000,2739
+Taka-töölö,kt,"3 h, kk, kph, p","62,00",505000,8145
+Toukola,kt,"2 h, k, kh (Yj ...","40,00",260000,6500
+Kurkimäki,kt,2h+k+s,"52,50",159500,3038
+Kulosaari,kt,2h+k,"53,00",350000,6604
+Kontula,kt,2h+kk,"53,50",149000,2785
+Oulunkylä,kt,"2h, k, kph ja p...","54,00",209000,3870
+Vuosaari,kt,"2h, k, kph/wc, p","55,00",165000,3000
+Puotila,kt,"2h, k + parveke","55,50",235000,4234
+Lassila,kt,"2h, k, s, vh, l...","56,00",198000,3536
+Punavuori,kt,"2h,avok,kph","40,50",356000,8790
+Meilahti,kt,"2h, k, kph, par...","44,00",320000,7273
+Malmi,kt,"2 h, avokeitti&...","49,50",161000,3253
+Vartiokylä,kt,2h+k,"50,00",140000,2800
+Sörnäinen,kt,2h+k+kph+vh,"50,00",235000,4700
+Vallila,kt,1H+K+KH+ET Yj *...,"50,00",326100,6522
+Etu-töölö,kt,2h+k+kph+vh+et+...,"58,50",455000,7778
+Meilahti,kt,1h+k+kph,"34,40",266000,7733
+Arabianranta,kt,"2h, kk, lasit.t...","45,00",278000,6178
+Etu-töölö,kt,"2h, k, kph, sauna","49,50",400000,8081
+Malmi,kt,"2h,k,s","50,00",134001,2680
+Myllypuro,kt,"2h, k, kph, las...","50,00",165000,3300
+Maunula,kt,"2h, k, kph, par...","51,00",186000,3647
+Konala,kt,"2h, k, kph ja l...","51,50",171000,3320
+Töölö,kt,"2h, k, alk, kph","52,00",436050,8386
+Harju,kt,"2h, k, kph","58,00",356000,6138
+Meilahti,kt,2h+kk,"32,40",250000,7716
+Taka-töölö,kt,2h+kk+kph,"48,50",375000,7732
+Puotinharju,kt,"2h,k","49,00",172500,3520
+Vuosaari,kt,2h+kk+s,"51,00",215000,4216
+Punavuori,kt,"2h, k, kph, s, ...","62,50",810000,12960
+Merihaka,kt,"2h, avok, kph, ...","41,50",282000,6795
+Taka-töölö,kt,2h+avok+työ...,"41,50",376000,9060
+Etu-töölö,kt,"2h, kk, kph","46,00",347000,7543
+Mellunmäki,kt,"2h,kk,kh","48,00",140000,2917
+Haaga,kt,"2h, k, kph, vh,...","48,00",270000,5625
+Tammisalo,kt,2h+k,"51,00",210000,4118
+Töölö,kt,2h,"54,00",420000,7778
+Pikku huopalahti,kt,"2h,k","60,50",305000,5041
+Etu-töölö,kt,2h+k+kph+et,"86,00",645000,7500
+Sörnäinen,kt,"2h, avok, kph j...","30,50",226000,7410
+Kaartinkaupunki,kt,"1-2h,avok,kph,et","37,00",343000,9270
+Kannelmäki,kt,"2h, kk, kph, parv.","39,00",184000,4718
+Laajasalo,kt,2h+k+kph+vh+las...,"40,00",195000,4875
+Kurkimäki,kt,2h + avok + kph...,"45,50",155000,3407
+Myllypuro,kt,"2h, kk, kph, la...","50,50",167200,3311
+Munkkiniemi,kt,"2h, k, kph, 2xv...","53,00",347000,6547
+Mellunmäki,kt,"2h, k, kph, par...","55,00",148500,2700
+Kallio,kt,"2h,k","66,70",394000,5907
+Vallila,kt,2h,"38,00",245000,6447
+Kurkimäki,kt,2h+kk,"47,50",135000,2842
+Arabianranta,kt,"2h, avok, kph, ...","49,00",335000,6837
+Lauttasaari,kt,2h+kt+s+ lasite...,"49,50",534000,10788
+Patola,kt,"2 h, k, kph, la...","50,00",165000,3300
+Pohjois-haaga,kt,2h+k,"51,00",287000,5627
+Kontula,kt,"2h, kk, lasitet...","42,50",152000,3576
+Myllypuro,kt,"2h, kk, kph, la...","50,50",170000,3366
+Kruununhaka,kt,"2h, kk, kph","42,00",255000,6071
+Kallio,kt,2 h+k+kph,"45,00",236000,5244
+Kamppi,kt,2 h+ avokeitti&...,"47,50",350000,7368
+Kamppi,kt,2h+k+kph,"48,50",420000,8660
+Fallpakka,kt,"2h, avok, kph, ...","50,00",159500,3190
+Ruskeasuo,kt,"2h, k, kph, et","50,50",340875,6750
+Aurinkolahti,kt,"2h, k, sauna ja...","59,50",293000,4924
+Munkkivuori,kt,"2h,kk, lasitett...","42,00",270000,6429
+Hermanni,kt,"2h,kk,kh","43,00",255500,5942
+Tapanila,kt,2h+kk+s,"49,00",189000,3857
+Myllypuro,kt,"2h, kk, kph, vh...","50,50",181000,3584
+Vuosaari,kt,"2h, k, kph + la...","50,80",143000,2815
+Pukinmäki,kt,"2 h, k, kph, pa...","52,50",177000,3371
+Harju,kt,2h+kk+kh,"57,70",322000,5581
+Vuosaari,kt,"2h, avok, kph, ...","58,50",175000,2991
+Kivikko,kt,"2h, k, kph, s, ...","61,00",205000,3361
+Etelä-haaga,kt,"2h+kk+p, yhti&#...","36,00",200000,5556
+Käpylä,kt,"2h, avok, kph","39,50",268000,6785
+Hermanni,kt,2 h+kk+kh,"43,50",263500,6057
+Länsi-pasila,kt,"2h, avok, vh, k...","50,50",250000,4950
+Pohjois-haaga,kt,"2h, k, kph, las.p","54,50",200000,3670
+Myllypuro,kt,2h + kk,"60,00",195000,3250
+Taka-töölö,kt,"2h, k, halli, k...","66,00",410000,6212
+Kruununhaka,kt,"2h+piianhuone, ...","76,50",570000,7451
+Käpylä,kt,2h+kk+kph+p ,"38,00",268000,7053
+Oulunkylä,kt,2h+kk,"41,00",209000,5098
+Mellunmäki,kt,2h+pk,"41,50",122000,2940
+Puotila,kt,2h+k,"51,50",200000,3883
+Töölö,kt,"2h, k, kh","52,00",325000,6250
+Pitäjänmäki,kt,"2h,kt","53,50",302000,5645
+Siltamäki,kt,2h+k+vh+las.parv. ,"62,00",115000,1855
+Kallio,kt,"2h, k, kph","63,50",438000,6898
+Herttoniemenranta,kt,2h+kk+kph/s/wc+...,"47,00",315000,6702
+Kontula,kt,"2h, kk, kph","47,50",145000,3053
+Malmi,kt,2h+k,"50,00",184000,3680
+Pajamäki,kt,2h+kk,"50,00",239001,4780
+Ruskeasuo,kt,2h+k+kph (yj. 1...,"31,00",242000,7806
+Ullanlinna,kt,"2h, avok, kph","41,00",370000,9024
+Kallio,kt,2h+avok+kph+vh,"42,50",310000,7294
+Hermanni,kt,2h+kk+kph+vh+pa...,"43,00",225000,5233
+Ullanlinna,kt,"2h, avok, kph/w...","50,50",467000,9248
+Taka-töölö,kt,"2 h, halli, kt,...","53,00",312202,5891
+Itäkeskus,kt,2h+k+kph+parvek...,"58,50",165000,2821
+Myllypuro,kt,"2h,k,lasitettu ...","61,00",167000,2738
+Punavuori,kt,2h + k,"62,50",400000,6400
+Harju,kt,"2h, avok, kph","31,00",215000,6935
+Kallio,kt,"2h,kk, parveke","42,00",256777,6114
+Alppila,kt,2 h+kk+kph+vh+parv,"42,00",280000,6667
+Alppiharju,kt,"2h, avok, kph","45,60",379000,8311
+Siltamäki,kt,"2h, kph, vh, pa...","63,50",186312,2934
+Käpylä,kt,"2h, kk, kph, pa...","38,00",258500,6803
+Kamppi,kt,"1-2h, avok, kph","49,00",440000,8980
+Koskela,kt,2h+k+vh (yhti&#...,"53,00",147000,2774
+Kallio,kt,"2h, keittiö...","54,00",365000,6759
+Malmi,kt,"2h, kk, kph, s,...","56,00",212000,3786
+Laajasalo,kt,"2h, k, sauna, k...","56,00",259000,4625
+Tapaninvainio,kt,2h+k+s,"58,50",193500,3308
+Pihlajisto,kt,2h+k,"61,60",162000,2630
+Alppila,kt,2h+kk+kph+vh,"42,00",272000,6476
+Pikku huopalahti,kt,"2h, avok, kph, ...","44,50",310000,6966
+Malmi,kt,"2h,kt,s,lasitet...","45,50",221500,4868
+Tapanila,kt,2h+k,"56,00",160000,2857
+Vallila,kt,"2 h, avokeitti&...","56,00",295000,5268
+Myllypuro,kt,"2h, k, parveke","61,00",145000,2377
+Taka-töölö,kt,"2h, kk, kph","40,00",291000,7275
+Pukinmäki,kt,"2h, kk, kph/wc,...","48,00",145000,3021
+Kuninkaantammi,kt,2h+kt,"48,50",244900,5049
+Etelä-haaga,kt,"2h, k, kph, vh, p","51,00",287000,5627
+Kontula,kt,2h+kk+lasitettu...,"56,50",179000,3168
+Viikinmäki,kt,"2h, k, rt, kph/...","60,00",277000,4617
+Pohjois-haaga,kt,2h+kk,"35,00",192500,5500
+Etelä-haaga,kt,2k+kk+kph (yj:n...,"37,00",182000,4919
+Eira,kt,"2h, k, kph","40,00",406000,10150
+Ullanlinna,kt,"2h, k","54,50",504564,9258
+Pihlajamäki,kt,"2h, kk, kph vh,...","55,00",175000,3182
+Oulunkylä,kt,"2h, k, kph, vaa...","59,50",225000,3782
+Meilahti,kt,"2h, avokeitti&#...","44,70",296000,6622
+Käpylä,kt,"2h, kk","46,50",299000,6430
+Hakaniemi,kt,"2h, avok, kph, ...","65,00",496000,7631
+Mellunmäki,kt,2h+kk,"47,00",156178,3323
+Lauttasaari,kt,"2h, k, kph, par...","48,00",379500,7906
+Puotila,kt,2h+k+kph+p,"52,50",159400,3036
+Munkkisaari,kt,"2h, k, kph, par...","54,00",578000,10704
+Lauttasaari,kt,"2h, k, kph, par...","56,00",355000,6339
+Herttoniemenranta,kt,2-3h+k+s+lasite...,"62,00",297910,4805
+Kamppi,kt,2h+kk+halli+kph,"43,00",350000,8140
+Pukinmäki,kt,"2h, k, lasitett...","54,00",168000,3111
+Kallio,kt,2h+k+parv.,"54,50",339000,6220
+Ullanlinna,kt,"2h, kk, kph","55,30",575120,10400
+Meilahti,kt,"2h, kk ja vh","40,00",245000,6125
+Etelä-haaga,kt,2h+kk+kph+p,"42,00",235000,5595
+Töölö,kt,2h+kph,"45,00",291000,6467
+Tapanila,kt,2h+k,"51,00",200100,3924
+Munkkiniemi,kt,"2h, keittiö...","51,00",448000,8784
+Ruskeasuo,kt,2r+öppet k...,"44,00",310000,7045
+Roihuvuori,kt,2 h + kk + rt,"51,50",190000,3689
+Kivihaka,kt,2h+k,"54,50",258500,4743
+Kontula,kt,2h+k+kph+vh+par...,"55,50",102000,1838
+Kallio,kt,"2h, avok, kph","52,00",395500,7606
+Herttoniemi,kt,"2h, avok, kph","34,00",231000,6794
+Tapanila,kt,"2h, kk, kph/wc, vh","36,00",152000,4222
+Mellunmäki,kt,"2h, pk, kph, prv","40,50",132000,3259
+Laajasalo,kt,"2h, k, kph, s, p","56,00",263000,4696
+Tapanila,kt,"2h,k, kph, p","51,00",150000,2941
+Etelä-haaga,kt,"2h, k, kph, las...","53,00",301000,5679
+Mellunkylä,kt,"2h, k, kph, las...","54,00",135000,2500
+Tapanila,kt,2h+k,"54,00",172000,3185
+Kalasatama,kt,"2h, kt, kph, vi...","54,50",484120,8883
+Lauttasaari,kt,2h+k+parveke,"55,00",429000,7800
+Lauttasaari,kt,2h+kk,"56,50",452000,8000
+Etu-töölö,kt,"2h, k, kph, wc, et","81,00",665000,8210
+Käpylä,kt,"2h, kk, kph, pa...","38,00",260000,6842
+Punavuori,kt,"2h,k,kph,las.p.","44,00",390000,8864
+Pohjois-haaga,kt,"2 h, k, kh, p","47,00",228000,4851
+Hermanni,kt,"2h, kk, kph, vh...","47,00",309000,6574
+Oulunkylä,kt,"2 h, k, s, lasi...","49,50",311599,6295
+Viikki,kt,"2h, avok., kph/...","51,50",269000,5223
+Kallio,kt,2h+k,"51,50",336000,6524
+Maunula,kt,"2h,kk, kph, p (...","40,90",150000,3667
+Malminkartano,kt,"2h, k, kph, iso...","50,00",219000,4380
+Vuosaari,kt,2h+k+kph+p,"51,00",145000,2843
+Pihlajamäki,kt,2h+kk,"55,00",108000,1964
+Pukinmäki,kt,"2 h, k, kph/wc,...","55,00",174000,3164
+Vuosaari,kt,2h+k+kph+parvek...,"56,00",159500,2848
+Taka-töölö,kt,2h+avok+kph,"60,00",430000,7167
+Paloheinä,kt,"2 h, k, kph/s, ...","61,00",248000,4066
+Kruununhaka,kt,"2h, k, kph, wc","66,00",455000,6894
+Pukinmäki,kt,"2h, avok, sauna...","68,00",220000,3235
+Malminkartano,kt,"1-2h loft, avok...","43,50",226000,5195
+Lauttasaari,kt,2h + k (yj:n mu...,"60,00",468000,7800
+Suurmetsä,kt,"2h, k, kph, par...","63,00",130000,2063
+Kurkimäki,kt,2h+kk+kph+parve...,"47,50",123000,2589
+Harju,kt,"1h, k, kph, parvi","48,10",312000,6486
+Taka-töölö,kt,"2h, alkovi, kk,...","48,50",392000,8082
+Myllypuro,kt,"2h, kk, khp/wc,...","50,50",175000,3465
+Konala,kt,"2h, k, kph, s, ...","55,50",205000,3694
+Taka-töölö,kt,"2h, k, halli, k...","74,00",440000,5946
+Etu-töölö,kt,2h+k+kph+halli,"82,00",702000,8561
+Taka-töölö,kt,"2h, kk, alkovi,...","35,20",234500,6662
+Kamppi,kt,2h+kt+kph,"45,00",450000,10000
+Käpylä,kt,"2h, k, vh, kph/...","60,50",360000,5950
+Lauttasaari,kt,2h+ kk+kph+vh+p,"42,00",316000,7524
+Meilahti,kt,2h+kk+kph,"47,00",268000,5702
+Kallio,kt,"2h+k+kh, jossa WC","50,00",240000,4800
+Etu-töölö,kt,"1-2h, alkovi, k...","56,80",447000,7870
+Herttoniemenranta,kt,"2h, avok, kph, ...","46,00",285000,6196
+Eiranranta,kt,"2h, avok, kph, ...","61,50",678000,11024
+Jätkäsaari,kt,"2h, k, kph,s,te...","66,50",703000,10571
+Ruskeasuo,kt,2r+öppet k...,"49,50",420000,8485
+Malmi,kt,2h+k+s,"54,50",170000,3119
+Kontula,kt,2h+k,"59,00",154000,2610
+Taka-töölö,kt,"2h, k, halli, k...","88,00",700000,7955
+Viikinmäki,kt,"2h, avok, kph/s...","50,00",270000,5400
+Lauttasaari,kt,"2h, k, rt, kph,...","51,50",393000,7631
+Kallio,kt,2h+k,"57,00",320000,5614
+Käpylä,kt,"2h, kk","38,00",229000,6026
+Kallio,kt,2h+avok.+kh+3kp...,"39,50",318000,8051
+Kannelmäki,kt,"2 h, k, kph, parv.","48,60",180000,3704
+Kamppi,kt,2 h+k,"56,70",475000,8377
+Malmi,kt,2h+k+s,"57,00",195509,3430
+Oulunkylä,kt,"2h, k, kph, las...","58,00",150000,2586
+Kamppi,kt,"2h, kk, kh","59,00",350000,5932
+Kannelmäki,kt,2h+k+kph,"50,50",220000,4356
+Alppila,kt,1h+k+kph,"42,00",284000,6762
+Käpylä,kt,"2h, kt","39,50",255000,6456
+Alppila,kt,2h+kk+kph+vh+la...,"41,00",184000,4488
+Kurkimäki,kt,"2 h, k, s, kph, p","60,00",172000,2867
+Savela,kt,"2h, kk, kph, wc...","37,00",164000,4432
+Kontula,kt,2h+k+kph+erill....,"56,50",158000,2796
+Lauttasaari,kt,2h+k+kph+s+p,"52,50",380000,7238
+Itäkeskus,kt,2h +k + las.pa ...,"62,50",156000,2496
+Lauttasaari,kt,"2 h, k, parveke","52,00",385000,7404
+Kamppi,kt,"2h, kk, kph, s,...","57,50",378000,6574
+Etu-töölö,kt,"2h, avok, kph, 2wc","63,60",572000,8994
+Kannelmäki,kt,2h+k+kph+las.pa...,"50,50",222000,4396
+Töölö,kt,"2h, avok.","54,20",415000,7657
+Kannelmäki,kt,2H +K,"55,00",199000,3618
+Kontula,kt,"2h, k, kph, p","59,00",144500,2449
+Etu-töölö,kt,"2h, kph","39,00",339000,8692
+Roihuvuori,kt,"2h, avok, kph, ...","45,00",183000,4067
+Pasila,kt,"2h, avok, kph, ...","50,00",390000,7800
+Vuosaari,kt,"2 h, avok., kph, p","53,00",225000,4245
+Kontula,kt,"2h,k,kph,lasite...","57,00",170489,2991
+Kallio,kt,"2h, k, kph, 2xvh,","59,00",398000,6746
+Kulosaari,kt,"2h, kk, kph, vh...","46,00",297500,6467
+Maunula,kt,"2h, k, kph, par...","53,00",220000,4151
+Malmi,kt,"2 h, tupak/oh, ...","54,00",205000,3796
+Käpylä,kt,"2h, k, kph, vh,...","56,00",340000,6071
+Kulosaari,kt,"2h, kk, kph, pa...","43,00",262000,6093
+Malmi,kt,"2h, k, kph, vh,...","58,00",210000,3621
+Kallio,kt,"2h, kk, wc/suihku","36,00",255000,7083
+Etelä-haaga,kt,"2h, kk, kph","38,00",238000,6263
+Kallio,kt,2h+k+kph+vh+p,"54,00",287000,5315
+Taka-töölö,kt,2 h+kk,"56,00",435000,7768
+Oulunkylä,kt,2h+kt+las.parv,"34,00",230000,6765
+Pihlajisto,kt,2h+kt+s,"50,00",257001,5140
+Länsi-pasila,kt,2h+k+kph+terassi,"54,00",270000,5000
+Oulunkylä,kt,"2 h, k, kh/wc, ...","56,00",247000,4411
+Alppiharju,kt,2h+kk,"42,00",267000,6357
+Myllypuro,kt,"2h, kk, kph, la...","43,00",175000,4070
+Pajamäki,kt,"2h, k, kph, par...","43,00",237000,5512
+Haaga,kt,2h+k+parv.,"48,00",291000,6063
+Kallio,kt,"2h, k, kph, alk...","57,00",363000,6368
+Taka-töölö,kt,"2h, avok, kph, wc","57,00",410000,7193
+Malmi,kt,"2 h, k, kh, pih...","58,00",190000,3276
+Punavuori,kt,2h,"42,00",420000,10000
+Maunula,kt,"2h, kk, kph, vh...","43,80",215000,4909
+Viikki,kt,"2h, avok., kph,...","47,50",237000,4989
+Punavuori,kt,"2h, k, kph","52,00",422000,8115
+Lauttasaari,kt,2h+k+kph+vh+et+...,"57,00",403000,7070
+Kruununhaka,kt,"2h, avok, kph, vh","65,50",510000,7786
+Taka-töölö,kt,"2h, avok, kph","37,00",305000,8243
+Vesala,kt,2h+avok+kh+s+p,"40,50",149000,3679
+Kallio,kt,"2h, avok, alkov...","41,50",278000,6699
+Roihuvuori,kt,"2h, k, kph, las...","52,00",242000,4654
+Vuosaari,kt,"2h, k, kph, vaa...","55,50",150000,2703
+Pukinmäki,kt,"2h, k, kph, vh, p","56,50",176000,3115
+Laajasalo,kt,2h+k,"56,50",188000,3327
+Kurkimäki,kt,2h+k+kph+parvek...,"57,50",155000,2696
+Käpylä,kt,2h+kk+eteinen+kph,"36,50",200000,5479
+Vuosaari,kt,"2h, kk, iso ter...","42,00",184000,4381
+Kontula,kt,2h+kk,"47,50",107000,2253
+Jätkäsaari,kt,2h+k,"48,00",375863,7830
+Alppila,kt,Oh+avok+2xmh+kph,"53,00",320000,6038
+Ruoholahti,kt,2H+K+S,"63,00",502000,7968
+Käpylä,kt,"2h, k, kph/wc, ...","71,50",495000,6923
+Taka-töölö,kt,"2h, kk, alkovi,...","44,00",308000,7000
+Taka-töölö,kt,"2h, avok, kph, ...","45,00",389000,8644
+Hermanni,kt,"2h, k , kph, p","49,00",277000,5653
+Etelä-haaga,kt,"2h, kk, kph, la...","50,00",255000,5100
+Etelä-haaga,kt,2 h + kk,"50,00",305000,6100
+Malmi,kt,"2h, avokeitti&#...","50,50",152000,3010
+Roihuvuori,kt,2h+k+s,"59,50",215000,3613
+Mellunmäki,kt,"2h, k","52,00",142000,2731
+Kruununhaka,kt,"2h, k, kph, vh","58,00",505000,8707
+Kallio,kt,"2h, avokeitti&#...","63,50",445000,7008
+Ilmala,kt,2h+k+kph+lasite...,"40,50",311000,7679
+Malminkartano,kt,"2h, avok, kph, ...","44,50",145000,3258
+Sörnäinen,kt,"2h, avok, kph, ...","45,40",286500,6311
+Pukinmäki,kt,2h+k+las.parv.,"47,00",191000,4064
+Käpylä,kt,2h+kk+s+parveke,"47,00",291000,6191
+Pohjois-haaga,kt,"2h, k, rt, kph,...","48,00",226000,4708
+Laajasalo,kt,"2h, k, kph/wc, ...","48,50",178000,3670
+Kallio,kt,"2h, k, kph, las...","49,00",325000,6633
+Oulunkylä,kt,"2h, avokeitti&#...","50,00",223500,4470
+Pihlajisto,kt,2h+k+s,"50,00",254000,5080
+Hakaniemi,kt,"2h, kk, et, kph/wc","52,50",310000,5905
+Kallio,kt,"2h, avokeitti&#...","53,00",300000,5660
+Herttoniemi,kt,"2h, k, kph, vh,...","59,50",300000,5042
+Lassila,kt,2h+kk+s+las.parv,"48,00",235000,4896
+Punavuori,kt,"2h, kk, kph, sa...","65,00",540000,8308
+Viikinmäki,kt,2H+KT,"44,50",283000,6360
+Punavuori,kt,"2h, kk, kph, vh","46,00",430000,9348
+Etu-töölö,kt,"2h, k","46,90",356000,7591
+Vesala,kt,"2h, avok, kph, ...","53,00",168000,3170
+Lassila,kt,"2h, kk, kph/s, ...","48,00",230000,4792
+Kivihaka,kt,"2h, avok, kph, ...","48,00",285000,5938
+Lauttasaari,kt,"2 h, avok, kph,...","51,00",436000,8549
+Pihlajisto,kt,2h+k,"60,00",127000,2117
+Punavuori,kt,2h + k,"35,00",287000,8200
+Munkkiniemi,kt,"1-2 h, alkovi, ...","45,00",328000,7289
+Punavuori,kt,"2h, k, kph, las...","58,00",498000,8586
+Kallio,kt,"2h, k, ph, saun...","64,00",521000,8141
+Kannelmäki,kt,"2h, k, kph, parv.","38,00",158000,4158
+Herttoniemi,kt,2 h + k,"47,00",235000,5000
+Alppiharju,kt,"2 h, avok, kph,...","84,00",390000,4643
+Etu-töölö,kt,"2h, avok, et., kph","43,00",313000,7279
+Pihlajisto,kt,2h+kt+s,"50,00",257001,5140
+Lauttasaari,kt,"2h, kt, kph, vh...","54,00",465000,8611
+Punavuori,kt,2 h+kk+kh,"48,00",400000,8333
+Mellunmäki,kt,2h+k+kph+lasit....,"55,00",110000,2000
+Vuosaari,kt,"2h, k, kph + la...","57,00",165000,2895
+Kannelmäki,kt,"2h, kk, kph, la...","43,00",149000,3465
+Kaartinkaupunki,kt,"2h, kk, kylpyhu...","47,00",405000,8617
+Lauttasaari,kt,"2h, k, kph, las...","51,50",349000,6777
+Tapanila,kt,2h+k+lasitettu ...,"55,50",158500,2856
+Vuosaari,kt,2h+k+parv.,"58,50",190000,3248
+Töölö,kt,"2h,k,kh","66,00",476000,7212
+Ruskeasuo,kt,2h+kk,"41,00",263000,6415
+Munkkivuori,kt,2h+avokeitti...,"43,20",281000,6505
+Meilahti,kt,"2h, kk, kph","45,00",300000,6667
+Länsi-pasila,kt,"2h, avok, s, la...","45,00",319000,7089
+Lauttasaari,kt,2h+kk+s,"45,00",373000,8289
+Roihuvuori,kt,2h+kk+vh+kph+la...,"46,00",266600,5796
+Taka-töölö,kt,2h+k+kph+wc+parv,"46,00",339900,7389
+Vallila,kt,"2h, avok, kph","46,00",355000,7717
+Kamppi,kt,"2h, k, kph","48,50",391000,8062
+Pihlajisto,kt,2h+kt+s,"50,00",257001,5140
+Vuosaari,kt,2h+k,"50,80",172500,3396
+Alppila,kt,"2 h, kk, kph","51,00",342000,6706
+Kallio,kt,"1-2 h, kt, alko...","52,50",312000,5943
+Ullanlinna,kt,2h+k+kph+vh,"53,60",420000,7836
+Vallila,kt,"2h, avok, kph, ...","55,00",330000,6000
+Käpylä,kt,"3 h,k, kph, p","60,00",342000,5700
+Lehtisaari,kt,2h+avok+kph+par...,"61,00",260000,4262
+Maunula,kt,2h+k+kh,"61,00",262000,4295
+Oulunkylä,kt,2h+k+terassi,"62,00",221000,3565
+Etu-töölö,kt,"2h, k, halli, k...","71,20",568000,7978
+Arabianranta,kt,2h+avok+kph+wc+...,"76,00",449000,5908
+Reimarla,kt,"2h, k, kph, par...","38,00",201000,5289
+Herttoniemenranta,kt,2h+avok+kph+las...,"42,50",293000,6894
+Vallila,kt,2h+kk,"45,50",350000,7692
+Vallila,kt,"2h, k, kph, p","49,00",355000,7245
+Munkkiniemi,kt,"2h, kk, vh, par...","49,00",370000,7551
+Kamppi,kt,2h+kt+kph+p,"55,00",397000,7218
+Kamppi,kt,"2h, kk, kph","55,00",449000,8164
+Kruununhaka,kt,2h+k+halli+kph+...,"80,00",570000,7125
+Eiranranta,kt,"2h,k,rt,s kph,k...","84,00",1100000,13095
+Malmi,kt,"2 h, kk, kh/wc,...","45,00",165000,3667
+Etelä-haaga,kt,"2 h, k, kph, vh...","45,00",255000,5667
+Taka-töölö,kt,"1-2h, avok, kph","48,00",357000,7438
+Puotila,kt,"2h, k, kph, vh,...","55,00",213500,3882
+Lassila,kt,"2h, k, kph, las...","55,00",240000,4364
+Kulosaari,kt,"2h, k, las. par...","55,00",300000,5455
+Koskela,kt,2h+k,"57,50",167000,2904
+Lassila,kt,"2h, avok, kph, ...","65,50",277000,4229
+Ruskeasuo,kt,"2 h, k, kh, p (...","41,00",195000,4756
+Siltamäki,kt,"2h, kk","41,50",138000,3325
+Kallio,kt,2h+kk+kh+lasite...,"43,00",305000,7093
+Roihuvuori,kt,"2 h, avok., sau...","44,00",190000,4318
+Mellunmäki,kt,2h+kk,"47,50",100000,2105
+Vallila,kt,2h+kk+ruokailutila,"51,00",295000,5784
+Siltamäki,kt,"2 h, keitti...","51,50",180000,3495
+Vuosaari,kt,"2 h, avok., kph, p","53,00",222000,4189
+Tapanila,kt,"2h,k,kph,lasit....","56,00",165000,2946
+Taka-töölö,kt,"2h, avok, parve...","57,00",446000,7825
+Patola,kt,"2 h, k, lasit. ...","58,00",191000,3293
+Punavuori,kt,"2-3h, k, kph","63,00",560000,8889
+Hermanni,kt,"2h, kt, kph, vh, p","39,00",235000,6026
+Itäkeskus,kt,"2h, kk, kph, sa...","42,00",175000,4167
+Punavuori,kt,"2h, avok, kph, ...","48,50",440000,9072
+Käpylä,kt,2H+K,"54,00",345000,6389
+Kalasatama,kt,"2h, k, kph, s, ...","54,50",460000,8440
+Herttoniemenranta,kt,2h+kt+s+lasit.p...,"57,50",348000,6052
+Länsi-pasila,kt,2h+k+vh+kph+las...,"58,00",295000,5086
+Töölö,kt,2h+kk,"35,00",291500,8329
+Pohjois-haaga,kt,2h+avok+kph+vh,"43,50",241000,5540
+Etelä-haaga,kt,2h+kk+kh+parv,"44,00",266000,6045
+"Viikki, latokartano",kt,"2h, avokeitti&#...","50,00",279000,5580
+Punavuori,kt,"2h, avok, kph, ...","54,50",441000,8092
+Pukinmäki,kt,"2h, k","57,50",150000,2609
+Herttoniemenranta,kt,"2 h, avok, s, v...","58,00",397000,6845
+Kruununhaka,kt,"2h, kk, kph","37,50",338000,9013
+Etelä-haaga,kt,2h+avok+kph+p,"45,00",286000,6356
+Pihlajisto,kt,2h+k+kph+s+p (Y...,"55,50",150000,2703
+Pitäjänmäki,kt,"2 h, k, kph, la...","60,50",207000,3421
+Alppila,kt,"2h, k, kph (YJ....","41,00",218000,5317
+Ullanlinna,kt,2h+kk+kph (yj:n...,"45,00",441000,9800
+Malmi,kt,"2h, k, kph, vh, p","50,50",135000,2673
+Ullanlinna,kt,2h+k+kph (yj:n ...,"50,50",405000,8020
+Lauttasaari,kt,"2h, k, kph, s, ...","58,00",425000,7328
+Kannelmäki,kt,2h + k + kph,"49,50",124000,2505
+Koskela,kt,"2 h, k, kph/wc,...","63,00",222000,3524
+Etu-töölö,kt,"2h, avok, kph","64,00",556800,8700
+Etu-töölö,kt,"2h, alkovi, k, ...","82,20",625000,7603
+Kannelmäki,kt,2h + kk + p,"40,00",179000,4475
+Ruskeasuo,kt,"2h,avokeitti...","50,50",410000,8119
+Puotinharju,kt,"2 h, k, kph, la...","51,50",178000,3456
+Harju,kt,"2h, k, vh, kph","54,00",324000,6000
+Etu-töölö,kt,2 h + kn (YJ:n ...,"80,60",570000,7072
+Alppila,kt,"2h, avok ja kph","33,40",260000,7784
+Kaartinkaupunki,kt,"2h, avok, kph, vh","42,50",410000,9647
+Pohjois-haaga,kt,"2h, kk, vh, p","43,50",213500,4908
+Vuosaari,kt,2h+k,"46,00",158000,3435
+Katajanokka,kt,"2h, kk","46,00",320000,6957
+Itä-pasila,kt,"2h, k ja lasite...","52,00",230668,4436
+Taka-töölö,kt,2h+k+kph,"55,50",415000,7477
+Kallio,kt,2h+kk+kph+vh+la...,"41,50",330000,7952
+Taka-töölö,kt,"2 h, avok, kph,...","45,00",320000,7111
+Vuosaari,kt,2h+kk+kph+lasit...,"52,50",159500,3038
+Meilahti,kt,2h+k+kh,"68,00",402796,5923
+Kannelmäki,kt,"2h, kk","50,00",176000,3520
+Mellunkylä,kt,"2h, kt","39,50",195000,4937
+Etelä-haaga,kt,2h+avok+kph,"40,50",235000,5802
+Malminkartano,kt,"2h, k, kph, par...","43,00",154000,3581
+Kamppi,kt,"2h, k, kph, vh","67,30",492000,7311
+Etu-töölö,kt,"2h, k","72,00",600000,8333
+Ullanlinna,kt,"2h, keittiö...","82,00",895000,10915
+Niemenmäki,kt,"2h, avokeitti&#...","42,00",252000,6000
+Vuosaari,kt,"2h, k, kph, p","46,00",140000,3043
+Laajasalo,kt,2h + k,"48,50",185000,3814
+Vuosaari,kt,"2h,k, kph, lasi...","50,80",180000,3543
+Munkkivuori,kt,"2h, k, kph, p","53,00",289000,5453
+Etu-töölö,kt,"2h, k, kph, s","57,50",470000,8174
+Sörnäinen,kt,"2h, avok, kph","40,00",210000,5250
+Sörnäinen,kt,"2h,k,kh","41,00",249000,6073
+Pikku huopalahti,kt,2h+kk+kph+p,"44,50",320000,7191
+Munkkivuori,kt,2h+avok+kph+p (...,"50,00",285000,5700
+Meilahti,kt," 2 h, k, kph, l...","50,00",335500,6710
+Vuosaari,kt,"2h,k","50,50",115000,2277
+Myllypuro,kt,2h+kk,"50,50",173000,3426
+Oulunkylä,kt,"2h, k, kph, las...","61,00",215000,3525
+Näkinpuisto,kt,"2h, kk, kph, vh...","44,50",385000,8652
+Itä-pasila,kt,2 h+kk+kph+ las...,"48,50",190000,3918
+Kannelmäki,kt,"2h, k, kph, las...","59,00",219000,3712
+Lehtisaari,kt,"2 h, k, kph, vh, p","52,00",227500,4375
+Kalasatama,kt,"2h, k, s","54,50",440000,8073
+Kontula,kt,2h+kk,"47,00",123000,2617
+Töölö,kt,2h+k+kph,"64,00",414000,6469
+Kallio,kt,2h+kk+kph+p,"42,00",297000,7071
+Punavuori,kt,"2h, avok ja kph","42,00",433000,10310
+Herttoniemi,kt,"2h, k, kph ","55,50",273000,4919
+Pihlajamäki,kt,2h+kk+lasitettu...,"56,00",155000,2768
+Munkkiniemi,kt,"2 h, avok, kph,...","45,00",391000,8689
+Lauttasaari,kt,"2h, avokeitti&#...","49,50",315000,6364
+Kruununhaka,kt,"2 h, k, kph","52,00",428000,8231
+Vuosaari,kt,"2h, k, kph, vh,...","55,50",150000,2703
+Lauttasaari,kt,2h+kk,"56,00",330175,5896
+Töölö,kt,2h+k+kph,"77,20",580000,7513
+Käpylä,kt,"2h, avokeitti&#...","55,00",290000,5273
+Kontula,kt,"2h, kk, kph, p","56,50",154000,2726
+Munkkiniemi,kt,2h+k+kph+p,"60,00",425000,7083
+Oulunkylä,kt,"2h, kk, kph, pa...","44,00",209000,4750
+Oulunkylä,kt,"2h, k, kph, vh,...","51,00",207000,4059
+Etu-töölö,kt,"2h, avokeitt...","53,00",405000,7642
+Myllypuro,kt,2h+k+kph+las.parv,"55,00",145000,2636
+Ruskeasuo,kt,"2h, k, kph ja l...","60,50",310000,5124
+Roihuvuori,kt,"2h, avok., saun...","44,00",182000,4136
+Kontula,kt,2h+kk+parveke,"46,00",169000,3674
+Pohjois-haaga,kt,"2h, k, parveke","52,00",243000,4673
+Meilahti,kt,2h+k+kph+parvek...,"55,50",407500,7342
+Kuninkaantammi,kt,2h+kt,"48,50",244900,5049
+Kivikko,kt,2h + kk + wc/ph...,"51,50",178000,3456
+Etelä-haaga,kt,"2h, kk, parveke","37,00",235500,6365
+Meilahti,kt,2 h+k-syv,"38,00",298000,7842
+Käpylä,kt,"2h,avok,kph,p","46,00",277000,6022
+Kuninkaantammi,kt,2h+kt,"48,50",244900,5049
+Herttoniemenranta,kt,"2h, bk, s, vh, ...","50,50",292000,5782
+Roihuvuori,kt,"2h, k, kph, vh","52,50",266000,5067
+Malminkartano,kt,2h+k+parveke,"56,00",162000,2893
+Käpylä,kt,"2h, k, kph, vh,...","56,00",311000,5554
+Munkkiniemi,kt,"2h, k, kph","63,00",381000,6048
+Etu-töölö,kt,"2h, avok, kph","64,00",594000,9281
+Jätkäsaari,kt,"2h,avok,et,s,la...","66,00",657000,9955
+Lauttasaari,kt,"2h, keittiö...","40,50",315000,7778
+Konala,kt,"2h, k, lasitett...","43,50",174000,4000
+Kallio,kt,"2h, avok, kph/wc","44,00",259000,5886
+Herttoniemi,kt,2h+kk+kph+p,"45,00",268000,5956
+Kruunuvuorenranta,kt,"2h, kt, rt, kph...","47,00",242000,5149
+Töölö,kt,2h+kph,"49,00",495000,10102
+Oulunkylä,kt,2h+kh+parv.,"49,50",222000,4485
+Taka-töölö,kt,"2h, avok, kph, wc","50,00",360000,7200
+Yliskylä,kt,"2h,k,kph,las.p.","51,00",189018,3706
+Etelä-haaga,kt,2h+k,"51,00",285000,5588
+Lauttasaari,kt,2h+avok+kph+vh,"52,00",400000,7692
+Munkkiniemi,kt,2h+kk,"58,50",420000,7179
+Pihlajamäki,kt,"2h, k, kph, vh,...","66,00",165000,2500
+Munkkiniemi,kt,"2h, kk, kph","37,00",272000,7351
+Taka-töölö,kt,2h + avokeitti&...,"39,00",295000,7564
+Kallio,kt,2h+kk+kph+vh+pa...,"40,50",310000,7654
+Etu-töölö,kt,2h + avokeitti&...,"42,00",439000,10452
+Kivihaka,kt,"2h, kk, kph, s,...","44,00",255000,5795
+Katajanokka,kt,"2h, avok, kph","45,00",390000,8667
+Pohjois-haaga,kt,"2h, avok, kph, ...","50,00",290000,5800
+Lauttasaari,kt,2h+avok+kph+p,"50,00",550000,11000
+Kallio,kt,2h+k,"52,00",353000,6788
+Vesala,kt,2h+k+s,"53,00",169000,3189
+Veräjämäki,kt,"2h, avok, parve...","53,00",215000,4057
+Punavuori,kt,"2h, avok, vh, k...","58,00",505000,8707
+Malmi,kt,2h+k+s,"59,50",182000,3059
+Kontula,kt,"2h, k, kph, vh,...","61,00",178000,2918
+Maunula,kt,2h+kk,"40,00",196000,4900
+Lauttasaari,kt,2h+pk,"42,00",285000,6786
+Alppila,kt,2h+pk+kh+parv,"43,50",306000,7034
+Munkkivuori,kt,"2h, k, kph, vh,...","49,00",278000,5673
+Kallio,kt,2h+k,"49,00",345000,7041
+Puotinharju,kt,2h+k+kph+lasite...,"51,50",157000,3049
+Kontula,kt,"2h, k, kh, wc, p","56,50",145250,2571
+Etu-töölö,kt,2h+k+kph+halli,"82,00",620000,7561
+Taka-töölö,kt,2h+k+kph+parveke,"40,00",346000,8650
+Laajasalo,kt,"2 h, kk, kph, p","47,00",202000,4298
+Meri-rastila,kt,2h+k+kph+parv. ...,"58,50",149000,2547
+Lauttasaari,kt,"2h, avok, kph, ...","46,50",390000,8387
+Käpylä,kt,"2h, avok, kph, ...","47,00",386000,8213
+Munkkivuori,kt,2h+avokeitti...,"51,00",220000,4314
+Pihlajamäki,kt,"2h, k, kph, las...","52,50",157000,2990
+Malmi,kt,2h+k+kph+s+piha,"54,50",187000,3431
+Kallio,kt,"2h, kk, kph, pa...","44,00",345000,7841
+Punavuori,kt,"2h, kk, kph, la...","44,00",376000,8545
+Oulunkylä,kt,2h + kk + parveke,"44,50",215000,4831
+Etelä-haaga,kt,"1-2h, avok, kph...","44,50",258000,5798
+Mellunmäki,kt,2 h + k + kph +...,"45,00",115000,2556
+Kamppi,kt,"2h, kk, kh","50,50",400000,7921
+Käpylä,kt,"2h, k","51,50",300000,5825
+Kallio,kt,2h+k+kph,"52,00",297000,5712
+Mellunmäki,kt,"2h,k,kph,p (Yht...","54,00",164000,3037
+Puotinharju,kt,"2h, k, kph, wc,...","56,00",138000,2464
+Käpylä,kt,"2h, k, kph, par...","60,50",334000,5521
+Taka-töölö,kt,"2h, avokeitti&#...","65,00",430000,6615
+Punavuori,kt,2h+kk+kph+et,"44,00",365000,8295
+Kallio,kt,2h+kk+rt+kh+ran...,"46,50",260000,5591
+Kallio,kt,2 h+k+kh+ransk....,"46,50",281000,6043
+Roihuvuori,kt,2h+k,"52,00",240000,4615
+Puotila,kt,"2h,k,kph,vh","53,00",195000,3679
+Haaga,kt,"2h, kk, kph","43,00",252000,5860
+Etelä-haaga,kt,"2h, kk, kph, ra...","43,00",276000,6419
+Etu-töölö,kt,2h+kk (yht.j...,"51,60",440000,8527
+Kallio,kt,2h+kk+kph+vh+ra...,"42,50",312000,7341
+Etelä-haaga,kt,"2h, k, kph, vh, p.","44,50",267000,6000
+Roihuvuori,kt,"2h, k, kph, vh ...","52,50",236000,4495
+Punavuori,kt,2h+kk,"38,00",340000,8947
+Kruunuvuorenranta,kt,"2h, kt, rt, kph...","47,00",256000,5447
+Kannelmäki,kt,"2h, keittiö...","51,50",215000,4175
+Etelä-haaga,kt,2h+k,"52,00",270000,5192
+Hakaniemi,kt,"2 h, kk, kph","53,00",435000,8208
+Ruskeasuo,kt,2h+k+kh+vh+parveke,"55,50",340000,6126
+Marjaniemi,kt,"2h, k, rt, kph,...","63,00",230000,3651
+Kamppi,kt,2h+k+palv.alk.,"72,00",525000,7292
+Kallio,kt,2h+avok+kph+et ...,"35,00",249900,7140
+Etelä-haaga,kt,"2h, avok, vh, k...","38,00",240000,6316
+Taka-töölö,kt,2h+avok+kph+wal...,"42,00",346000,8238
+Roihuvuori,kt,"2h, k, vh, kph/...","51,10",255000,4990
+Hakaniemi,kt,2h+k+kph+lasite...,"51,50",410000,7961
+Meilahti,kt,2h+halli+kk,"62,00",428000,6903
+Munkkiniemi,kt,"2h, avok, alkov...","41,00",319000,7780
+Punavuori,kt,"2h, kk, kph, vh","42,20",365000,8649
+Lauttasaari,kt,"2h, avok, kph, ...","46,00",535000,11630
+Koskela,kt,"2h, kt","47,50",281000,5916
+Puotinharju,kt,2h+k+parveke,"51,50",170000,3301
+Hermanni,kt,2h+k+kph+parvek...,"63,00",336000,5333
+Kruunuvuorenranta,kt,"2h, kk, kph, la...","51,00",244902,4802
+Kamppi,kt,"2h, avok, kph","51,00",531000,10412
+Vuosaari,kt,2 H+K+S,"57,00",220274,3864
+Kallio,kt,"2h, k, alkovi, ...","57,00",430000,7544
+Kamppi,kt,"2h, k, sauna/kp...","57,00",436000,7649
+Roihuvuori,kt,"2h, k, kph (yj ...","51,00",206500,4049
+Etelä-haaga,kt,"2 h, avokeitti&...","52,00",275000,5288
+Pohjois-haaga,kt,"2h, k, kph ja l...","60,00",200000,3333
+Hakaniemi,kt,2h+k+kph+et (yh...,"60,00",350000,5833
+Lassila,kt,"2h, k, kph, las...","55,00",217500,3955
+Katajanokka,kt,"2h, k, sauna, v...","64,50",495000,7674
+Käpylä,kt,"2h, avok, kph, ...","45,00",291000,6467
+Oulunkylä,kt,"2 h, avok, lasi...","50,00",250000,5000
+Pohjois-haaga,kt,"2h, k, kph/wc, ...","51,00",250000,4902
+Malmi,kt,2 h + k + p,"54,00",175000,3241
+Maunula,kt,2h+k+kph+p,"46,00",222000,4826
+Puotila,kt,"2h, k, kph, vh, p","47,50",185000,3895
+Lauttasaari,kt,2h+k+kph,"51,70",248000,4797
+Munkkivuori,kt,2h+k+vh+kph+las...,"55,00",266000,4836
+Meri-rastila,kt,"2h, k, s, vh, parv","60,00",183000,3050
+Kamppi,kt,2h+kk,"71,00",540000,7606
+Taka-töölö,kt,"2h, avok. kph","39,50",313005,7924
+Käpylä,kt,"2h, kt","45,00",305000,6778
+Sörnäinen,kt,2H+K (yht.j...,"45,00",326000,7244
+Herttoniemi,kt,"2h, kk, kph","33,00",193000,5848
+Etelä-haaga,kt,"2h, avok, kph, ...","49,50",275000,5556
+Vuosaari,kt,2h + k,"50,80",178000,3504
+Kontula,kt,"2h, k, kph/wc, ...","52,00",157000,3019
+Alppiharju,kt,"2h,kk","30,00",235101,7837
+Pitäjänmäki,kt,2h+k+kph+las.parv.,"52,00",299000,5750
+Herttoniemenranta,kt,2H+K,"52,50",399000,7600
+Koskela,kt,"2h, kt","47,00",275000,5851
+Malmi,kt,"2h, avok, pesuh...","47,50",166000,3495
+Reimarla,kt,"2h, k, kph, vh,...","51,50",145000,2816
+Lauttasaari,kt,"2 h, kk, kph","33,00",279000,8455
+Kallio,kt,"2h, avok, kph, ...","41,00",325000,7927
+Ruskeasuo,kt,2h+kk,"44,00",331000,7523
+Puotila,kt,"2h, k, kph, par...","47,50",184000,3874
+Kannelmäki,kt,"2h, k, kph, vh,...","52,50",135000,2571
+Ullanlinna,kt,"2h, kk, kh, wc","43,50",490000,11264
+Ruskeasuo,kt,2h+kk,"44,00",325000,7386
+Veräjämäki,kt,"2h, kk, kh, par...","45,00",208000,4622
+Koskela,kt,"2h, kt","45,00",291000,6467
+Kruunuvuorenranta,kt,"2h, kt, rt, kph...","47,00",249500,5309
+Kannelmäki,kt,"2 h, kk, kph, p...","48,00",184000,3833
+Kivihaka,kt,"2h, k, parveke ...","51,00",280000,5490
+Alppiharju,kt,2h+k+kph (yhti&...,"52,00",358000,6885
+Lassila,kt,"2h, k, s, vh, l...","52,50",210000,4000
+Lauttasaari,kt,"2h, k, kph, eri...","55,00",392000,7127
+Pihlajamäki,kt,2h+k+kph+vh+las...,"56,00",164000,2929
+Aurinkolahti,kt,"2h, k, kph, las...","58,00",315000,5431
+Ullanlinna,kt,"2h, k, kh, wc, vh","85,20",830000,9742
+Lauttasaari,kt,2 h+kk,"39,00",293000,7513
+Etelä-haaga,kt,2 h + kk,"39,50",237000,6000
+Kamppi,kt,"2h, kk, kph ja ...","40,00",333000,8325
+Viikinmäki,kt,"2 h, k, kh, p (...","45,00",275000,6111
+Vuosaari,kt,"2h,k,kph,parveke","46,00",152000,3304
+Länsi-pakila,kt,2h+k+kph,"47,00",215000,4574
+Kannelmäki,kt,2H+K,"50,00",198000,3960
+Herttoniemenranta,kt,2h+kt,"52,00",325000,6250
+Pitäjänmäki,kt,2h+kt+s (2h+kt+...,"52,50",332000,6324
+Laajasalo,kt,"2h, avok, kph, ...","56,00",268912,4802
+Länsi-pasila,kt,"2h, k, wc/kph, ...","58,50",295000,5043
+Pikku huopalahti,kt,"2h, avokeitti&#...","58,50",352000,6017
+Pikku huopalahti,kt,2h+kk,"42,00",221138,5265
+Kallio,kt,2h + k,"50,00",320000,6400
+Ullanlinna,kt,2h+k,"51,00",373000,7314
+Oulunkylä,kt,2h+k+kph+vh+par...,"55,50",247000,4450
+Malminkartano,kt,2 h+kt+s,"58,50",234000,4000
+Alppiharju,kt,"2h, k, kph, par...","60,00",326000,5433
+Pihlajamäki,kt,2h+k,"61,00",165000,2705
+Kruununhaka,kt,2h+k,"70,00",615000,8786
+Vallila,kt,1h+k+wc+sh,"40,00",252000,6300
+Kannelmäki,kt,"2h,k,kph/wc,s,l...","50,00",255000,5100
+Etu-töölö,kt,2h+k+et+ph+wc (...,"52,00",365000,7019
+Mellunmäki,kt,"2h, k, kph, las...","55,00",174000,3164
+Pihlajamäki,kt,2h+k+kh+p,"58,00",125000,2155
+Kalasatama,kt,"2h, kt, kph, pa...","42,50",400000,9412
+Käpylä,kt,"2h, kt","45,00",270000,6000
+Etelä-haaga,kt,"2h, k, kph, las.p","50,00",276000,5520
+Reimarla,kt,"2h, keittiö...","51,50",164000,3184
+Mellunkylä,kt,2h+kt,"53,00",215000,4057
+Veräjälaakso,kt,2h+k+s,"57,00",233000,4088
+Itäkeskus,kt,2h + k + kph + ...,"60,50",175000,2893
+Munkkivuori,kt,"2h, kk, kph, ra...","38,00",240000,6316
+Meilahti,kt,2h+avok+kph (yj...,"39,00",292000,7487
+Etelä-haaga,kt,2h+kk,"45,00",273000,6067
+Hermanni,kt,2h+kk+vh+ty...,"47,00",281000,5979
+Etelä-haaga,kt,2h+k+alkovi+kph...,"47,00",284000,6043
+Hakaniemi,kt,"2h, avok, halli...","47,00",335000,7128
+Etelä-haaga,kt,"2h, k, kph, p","48,00",289000,6021
+Kallio,kt,2h+avok+kh,"48,00",335500,6990
+Taka-töölö,kt,"2h, avok, kph, et","48,50",355000,7320
+Myllypuro,kt,"2h, kk, lasitet...","53,00",172000,3245
+Vesala,kt,2h+k+parveke,"57,00",126000,2211
+Malminkartano,kt,"2h, k, kph, pih...","64,00",168000,2625
+Etu-töölö,kt,2h+k (yhtiö...,"37,50",389011,10374
+Roihuvuori,kt,2h+k,"40,00",182000,4550
+Alppila,kt,2 h+avok+eteisa...,"40,00",271000,6775
+Kivihaka,kt,"2h, avok, kph, ...","41,50",215000,5181
+Käpylä,kt,"2h, kt","45,00",293000,6511
+Konala,kt,"2h, k, lasitett...","49,00",189000,3857
+Malmi,kt,"2h, k, s","49,50",135000,2727
+Meilahti,kt,2h+ak+kph,"52,40",315000,6011
+Punavuori,kt,2h+k,"55,00",449000,8164
+Lauttasaari,kt,"2h, avok, kph, ...","55,50",475000,8559
+Pohjois-haaga,kt,2h+k+kph+lasite...,"56,50",255000,4513
+Herttoniemenranta,kt,2h+kk+s,"57,00",338500,5939
+Alppiharju,kt,"2h, avok, khp, ...","60,50",435000,7190
+Pohjois-haaga,kt,"2h,k,kph,vh,par...","49,00",253000,5163
+Pihlajisto,kt,"2h, k, kph","50,50",159500,3158
+Vuosaari,kt,"2h, avok, kph, ...","51,00",242000,4745
+Viikki,kt,"2h, k, kph, las...","53,50",260000,4860
+Aurinkolahti,kt,"2h, kk, kph, s,...","54,50",294500,5404
+Munkkiniemi,kt,2h+k+kph+vh+p,"55,50",380000,6847
+Kurkimäki,kt,2 h+k+s,"64,00",174000,2719
+Taka-töölö,kt,2 h + kk,"65,00",425000,6538
+Vuosaari,kt,"2-3 h, avok., k...","66,00",260000,3939
+Oulunkylä,kt,"2h,kk,kph,p (Yj...","39,00",230000,5897
+Alppila,kt,2h+kk+kph+vh+pa...,"41,00",221400,5400
+Länsi-pasila,kt,2h+avok.+kph+sa...,"43,00",270000,6279
+Malminkartano,kt,"2h, avok, kph, ...","44,50",236500,5315
+Taka-töölö,kt,"2h, avok, kph, wc","49,00",445000,9082
+Käpylä,kt,"2-3 h, k, kph, p","66,00",342000,5182
+Heikinlaakso,kt,2 h+kk+p,"50,50",166000,3287
+Roihuvuori,kt,"2h, k, kph, p","55,00",204000,3709
+Herttoniemi,kt,2h + k,"49,00",290000,5918
+Kruununhaka,kt,"2h, k","49,00",441000,9000
+Oulunkylä,kt,"2h, kk, kph, la...","50,00",230000,4600
+Pohjois-haaga,kt,2h+k,"51,00",285000,5588
+Kruununhaka,kt,"2h,kk,lasitettu...","36,00",348000,9667
+Viikki,kt,"2h, avok., kph,...","38,00",233000,6132
+Meilahti,kt,"2h, avokeitti&#...","42,00",285000,6786
+Käpylä,kt,"2h, kt","45,00",284000,6311
+Meilahti,kt,2h + kk + parveke,"48,00",355000,7396
+Käpylä,kt,"2h, k","51,50",316000,6136
+Hietalahti,kt,2h+k+kph+s+las.p,"51,50",442000,8583
+Yliskylä,kt,2h+k+vh+kph+s+l...,"52,00",289000,5558
+Vallila,kt,2 h + k,"57,00",299250,5250
+Kulosaari,kt,"2h, k, kph,p","50,00",275100,5502
+Herttoniemenranta,kt,2H+K,"51,00",410000,8039
+Etu-töölö,kt,2h+avok+kp+eril...,"55,00",485000,8818
+Kallio,kt,2h+k+kph+p (yj:...,"55,50",320000,5766
+Kontula,kt,"2h, k","57,00",108000,1895
+Meilahti,kt,"2h, avok, kph","38,00",280000,7368
+Tapanila,kt,2h+k+kph+lasite...,"51,00",150000,2941
+Pihlajisto,kt,2h+k+p,"59,50",188000,3160
+Käpylä,kt,"2h, avok, kph, ...","45,00",284000,6311
+Kuninkaantammi,kt,"2h, avokeitti&#...","45,50",229000,5033
+Tapaninvainio,kt,2h+k+s+lasitett...,"52,00",185000,3558
+Puotila,kt,"2h, k, kph, par...","54,00",229651,4253
+Kontula,kt,2h+k+kph+lasite...,"57,00",110000,1930
+Suutarila,kt,2h+k+kph,"60,00",152000,2533
+Alppiharju,kt,2h+kk+kph,"42,00",288000,6857
+Alppila,kt,"2 h, avok., kph","51,00",392000,7686
+Vallila,kt,"2h, avok ja par...","32,50",209000,6431
+Aurinkolahti,kt,"2h, kk, kph, la...","35,50",201000,5662
+Pasila,kt,2h + kt + lasit...,"46,00",259800,5648
+Tali,kt,2h+kk+kph+s+las...,"47,00",322000,6851
+Hermanni,kt,2h+k,"49,00",284000,5796
+Pihlajisto,kt,2h+k+kh,"50,50",148000,2931
+Töölö,kt,2h+k+kph+vh (yh...,"53,50",382000,7140
+Malmi,kt,2h+ avokeitti&#...,"54,00",180000,3333
+Maunula,kt,"2h, k, kph, par...","60,50",205000,3388
+Ullanlinna,kt,"1h, k, kh, alko...","53,50",479000,8953
+Herttoniemenranta,kt,"2h, avokeitti&#...","55,50",349000,6288
+Pitäjänmäki,kt,"2h, k, parveke","58,00",190000,3276
+Munkkiniemi,kt,2h+avok.+kph+p,"38,50",315000,8182
+Alppiharju,kt,2h+avok+kph+s+vh,"57,50",380000,6609
+Pasila,kt,2h + kt + kph +...,"46,00",264800,5757
+Kallio,kt,2h+k+kph+vh+las...,"51,00",315000,6176
+Puotinharju,kt,2h+k+parv.,"59,50",152500,2563
+Lauttasaari,kt,"2h, avok, kph, 2rp","65,00",498000,7662
+Kamppi,kt,2h+kk+kph+vh+ra...,"40,50",398000,9827
+Myllypuro,kt,"2h, kt, kph, s,...","51,50",195000,3786
+Kontula,kt,"2h, k, psh, las...","53,50",155000,2897
+Ullanlinna,kt,2h+avok+kph+p,"36,00",380000,10556
+Pitäjänmäki,kt,"2h, k, kph","44,00",195000,4432
+Katajanokka,kt,2h+k,"74,00",470000,6351
+Harju,kt,2h+kk+kph,"30,00",230000,7667
+Alppila,kt,"2h, avok","30,50",237500,7787
+Pitäjänmäki,kt,2h+k+p,"45,00",236000,5244
+Oulunkylä,kt,2h+k+lasitettu ...,"46,00",220000,4783
+Aurinkolahti,kt,2h+avok+kh+s+p,"49,50",307030,6203
+Etu-töölö,kt,2H+K,"49,50",530000,10707
+Ullanlinna,kt,"2h, kk, kph, et","50,50",510000,10099
+Meri-rastila,kt,2h+k+kph+s+wc+p,"57,50",165000,2870
+Herttoniemi,kt,2h+k,"64,00",282000,4406
+Kumpula,kt,2h+k,"44,00",300000,6818
+Herttoniemi,kt,2h+avok.+kph,"45,00",279000,6200
+Arabianranta,kt,"2h, kk, lasitet...","45,00",312000,6933
+Taka-töölö,kt,1-2h+kk+kph,"46,00",286000,6217
+Ullanlinna,kt,"2h,kk,kh","47,00",405000,8617
+Kamppi,kt,"2h,kk","47,30",528000,11163
+Mellunkylä,kt,2h+kk,"49,00",142361,2905
+Kulosaari,kt,"2h, kk, kph, p","50,00",325009,6500
+Herttoniemi,kt,"2h, kt, s, lasi...","55,00",350000,6364
+Pukinmäki,kt,"2h, k, kph/wc, ...","56,50",176667,3127
+Ullanlinna,kt,2h+k+kph+kakluuni,"74,00",789000,10662
+Pajamäki,kt,"2h, k, kph, par...","48,00",235000,4896
+Lauttasaari,kt,2h+k,"51,00",418000,8196
+Herttoniemi,kt,"2 h, k, s","61,00",280000,4590
+Mellunmäki,kt,2h+keittiö...,"40,50",120000,2963
+Oulunkylä,kt,"2h, kk, parveke","44,50",248000,5573
+Pitäjänmäki,kt,"2h, avokeitti&#...","50,00",184000,3680
+Käpylä,kt,2h+avokeitti...,"41,00",255000,6220
+Kuninkaantammi,kt,"2h,kt","42,00",230600,5490
+Taka-töölö,kt,"2h, kk, kph, et","47,00",365000,7766
+Kamppi,kt,"2h,kk","48,00",330000,6875
+Meilahti,kt,"2h, avok., kh","48,40",356130,7358
+Jätkäsaari,kt,"2h, avok, kph, ...","50,00",415000,8300
+Viikki,kt,2h+k+s,"52,00",277000,5327
+Harju,kt,"2h,avok,alk.kh","57,00",410000,7193
+Myllypuro,kt,"2h, k, kph + la...","57,50",186000,3235
+Oulunkylä,kt,"2h, k","58,00",260000,4483
+Tammisalo,kt,2h+k+kph+lasite...,"42,00",202500,4821
+Kallio,kt,"2h,kk","42,50",260000,6118
+Viikki,kt,"2h, tk, kph, s,...","45,00",229000,5089
+Koskela,kt,"2h, avok, kph, ...","45,00",305000,6778
+Lauttasaari,kt,"2h, k, kph, s, ...","47,00",335000,7128
+Etelä-haaga,kt,"2h, avok, kph, ...","51,00",190000,3725
+Kruununhaka,kt,"2h, k, kph","51,00",346000,6784
+Etu-töölö,kt,"2h, avok, kph","58,00",430000,7414
+Kruununhaka,kt,2-3h+avok+kph/w...,"59,50",621000,10437
+Etu-töölö,kt,"2h, avok, kph, vh","61,00",425000,6967
+Etu-töölö,kt,"2h,avok, kph, vh","66,00",450000,6818
+Punavuori,kt,2h+avok+kph+p,"37,00",484000,13081
+Harju,kt,1-2h+avok.+ty&#...,"50,00",352000,7040
+Kruununhaka,kt,"2h, kk, alkovi,...","65,00",480000,7385
+Ullanlinna,kt,2h+avokeitti...,"40,00",385200,9630
+Oulunkylä,kt,"2h, k, kph, par...","49,00",210000,4286
+Etelä-haaga,kt,"2h, k, kph ja p...","54,00",230000,4259
+Kontula,kt,2h+k+kh+wc+p,"57,00",140000,2456
+Malmi,kt,2h+k,"44,00",138000,3136
+Roihuvuori,kt,2H+KT+S,"47,50",270000,5684
+Itä-pasila,kt,"2 h, k, kph, p","56,50",210000,3717
+Kruununhaka,kt,"2h, avok, kph, ...","37,50",480000,12800
+Käpylä,kt,"2 h, avok, kph, p","48,00",257000,5354
+Punavuori,kt,"2h, avok, kph/w...","56,00",482368,8614
+Pohjois-haaga,kt,"2h, k, k, vh, l...","57,40",184000,3206
+Koskela,kt,"2h, k, kph, las...","63,00",175000,2778
+Pitäjänmäki,kt,2h+kk+khp+p,"38,00",208000,5474
+Kuninkaantammi,kt,2h+k+kph+et+ter...,"47,00",219000,4660
+Itäkeskus,kt,2h+k+kph,"50,00",272000,5440
+Myllypuro,kt,2h+kk+kph+vh+la...,"51,00",182000,3569
+Maunula,kt,"2 h, k, kph, p ...","51,00",198000,3882
+Roihuvuori,kt,"2h, k, kph, las...","52,00",259000,4981
+Munkkivuori,kt,2h+k,"53,00",315000,5943
+Ruskeasuo,kt,"2h, avok, kph, ...","43,50",275000,6322
+Mellunmäki,kt,"2h, k, kph, las...","50,50",128000,2535
+Kontula,kt,2h+kk,"53,00",120000,2264
+Ullanlinna,kt,"2h, kk, et, kph","41,00",379000,9244
+Kallio,kt,"2h,avok,kph,vh","51,00",284000,5569
+Aurinkolahti,kt,"2h, k, kph, s, ...","54,00",238000,4407
+Kallio,kt,1h + 2alk + k,"54,00",325000,6019
+Myllypuro,kt,"2h, k, kph, par...","54,50",174000,3193
+Pohjois-haaga,kt,"2h, k, kph/wc, ...","52,50",255000,4857
+Sörnäinen,kt,"2h, k, kph, sau...","59,50",390000,6555
+Munkkivuori,kt,"2h, k, kph, vh, p","48,90",249500,5102
+Myllypuro,kt,"2h, k, kph, vh,...","60,50",195000,3223
+Pohjois-haaga,kt,2h+k,"51,00",276000,5412
+Pihlajisto,kt,2h+k,"60,00",198000,3300
+Vuosaari,kt,2h+k,"63,50",189000,2976
+Vuosaari,kt,"2-3 h, avok., k...","66,00",255000,3864
+Herttoniemenranta,kt,2H+KK+S+PARV,"45,00",270000,6000
+Kallio,kt,"2h, k, kph, vh,...","51,00",381000,7471
+Kulosaari,kt,"2h, k, kph, par...","55,00",341397,6207
+Kamppi,kt,"2h,avok,kph,ty&...","61,00",480000,7869
+Taka-töölö,kt,"2h, avok ja kph","62,00",405000,6532
+Sörnäinen,kt,2h+kk,"39,50",300000,7595
+Eiranranta,kt,"2 h, avokeitti&...","66,50",600000,9023
+Kulosaari,kt,2H+KK+KH+TERASSI,"38,50",218500,5675
+Kontula,kt,2h+k+kh+wc+p,"56,50",133000,2354
+Kamppi,kt,2h+kk,"42,00",415000,9881
+Vuosaari,kt,2h+kk+s+p,"47,50",204000,4295
+Vuosaari,kt,2h+k+p (yht.j&#...,"53,50",168000,3140
+Kannelmäki,kt,"2h, k, kph, vh,...","54,00",220000,4074
+Oulunkylä,kt,"2h, k, kph, par...","53,50",228000,4262
+Malmi,kt,2h+k+s+erill.wc...,"66,00",245000,3712
+Käpylä,kt,"2 h, k (Yj. muk...","40,00",224000,5600
+Meilahti,kt,2h+kk,"40,00",250000,6250
+Kallio,kt,2h+k,"41,00",301000,7341
+Kallio,kt,"2h, k","50,00",365000,7300
+Puotila,kt,2h+k+vh+p,"52,00",178000,3423
+Itäkeskus,kt,"2h,k,kph,p (2h+...","57,00",155000,2719
+Arabianranta,kt,"2h, keittiö...","58,00",350000,6034
+Merihaka,kt,2h+kk,"47,00",213000,4532
+Latokartano,kt,"2h,kt","48,00",254000,5292
+Aurinkolahti,kt,"2h, kk, kph, s,...","49,00",235000,4796
+Lauttasaari,kt,2h+avok+kph+las...,"36,00",295000,8194
+Kruununhaka,kt,"2h, avok, kph, ...","37,50",465000,12400
+Koskela,kt,"2h, kt","45,00",277000,6156
+Munkkivuori,kt,"2h, k, kph, las...","47,00",262000,5574
+Vallila,kt,"2h, kk, kph","48,50",272000,5608
+Vallila,kt,2 h+kk,"50,00",300000,6000
+Katajanokka,kt,2+k+s,"54,00",450000,8333
+Katajanokka,kt,"2h, avokeitti&#...","57,00",600000,10526
+Hakaniemi,kt,"2h, k, vh, kph/...","58,00",406000,7000
+Vallila,kt,2h+avok+kph (yh...,"29,50",216000,7322
+Käpylä,kt,2h+kk+parveke,"38,50",258500,6714
+Vuosaari,kt,2h+k,"50,80",175000,3445
+Hakaniemi,kt,"2h, k, kph, eri...","46,30",425500,9190
+Hermanni,kt,"2h, k, kph, vh,...","54,50",292000,5358
+Vartiokylä,kt,"2h, k, kph, eri...","56,00",145000,2589
+Punavuori,kt,"2h, avok, kph","56,50",628500,11124
+Aurinkolahti,kt,"2h, k, kph, ter...","58,00",270000,4655
+Ruskeasuo,kt,"2h, k, sauna/kp...","72,00",455000,6319
+Vallila,kt,2h+avok+kph+las...,"39,50",381000,9646
+Mellunkylä,kt,avokeittiö...,"41,50",197500,4759
+Käpylä,kt,"2h, avok, kph, ...","45,00",287000,6378
+Puotinharju,kt,"2h, k, kph, p","46,00",140000,3043
+Kallio,kt,2h+kk+kh,"48,00",355000,7396
+Lassila,kt,"2h, kk, kph, la...","49,50",211000,4263
+Munkkiniemi,kt,"2h, k, kph, par...","53,00",335000,6321
+Etu-töölö,kt,2h+kk,"54,00",440000,8148
+Marjaniemi,kt,2h+k+s+las.parv,"57,50",190000,3304
+Vuosaari,kt,"2h, k, kph","63,00",170000,2698
+Harju,kt,"2h,rt,kh,ty...","64,50",401000,6217
+Taka-töölö,kt,"2h, k, kph, par...","43,00",375500,8733
+Lauttasaari,kt,2h+avok+kph+las...,"47,00",308000,6553
+Herttoniemi,kt,2h+k,"48,00",270000,5625
+Etelä-haaga,kt,"2h, avokeitti&#...","54,00",310000,5741
+Jätkäsaari,kt,"2h, k, kph, s, ...","56,00",490000,8750
+Kallio,kt,2h+k+kph+parveke,"60,00",385000,6417
+Punavuori,kt,"2h, k, kph, wc","83,40",655000,7854
+Kontula,kt,"2h, kk (yht.j&#...","47,50",132000,2779
+Käpylä,kt,"2h,k,khwc,p","49,00",258000,5265
+Herttoniemi,kt,"2h, k, kph, vh,...","57,20",283000,4948
+Pihlajisto,kt,"2 h, k, kh/wc, ...","59,50",185000,3109
+Kaartinkaupunki,kt,"2h, avok, kph","41,00",409000,9976
+Munkkivuori,kt,"2 h, k, kh, vh","55,60",262000,4712
+Kalasatama,kt,"2h, k, kph, sau...","58,50",442000,7556
+Länsi-pasila,kt,2h+kt+s,"61,00",380000,6230
+Pikku huopalahti,kt,3H+K,"77,00",431879,5609
+Puotila,kt,"2h, k, kph, par...","55,00",191000,3473
+Latokartano,kt,"2h, k, s, lasit...","60,00",276000,4600
+Katajanokka,kt,"2h,k,halli,kph","61,60",470000,7630
+Taka-töölö,kt,"2h, avok, kph, ...","40,00",310000,7750
+Lauttasaari,kt,"2h, avok, kph, ...","42,50",435000,10235
+Malmi,kt,"2h, k, kph/s, w...","56,00",202000,3607
+Toukola,kt,2h+kk+kph,"40,00",249000,6225
+Hermanni,kt,2h+kk+s+parveke ,"52,00",354000,6808
+Meri-rastila,kt,2h+kk+s+parveke...,"40,50",138000,3407
+Etelä-haaga,kt,"2h, kk, kh, p (...","42,00",259000,6167
+Etelä-haaga,kt,"2h, k, kph, vh, p.","44,50",277000,6225
+Hermanni,kt,2h+k+m.alk,"51,00",281000,5510
+Alppila,kt,"2h, k, kph/s, e...","56,50",355000,6283
+Tapulikaupunki,kt,"2 h, k, kh/wc, ...","58,50",160000,2735
+Pitäjänmäki,kt,"2h, k, s ja las...","60,50",288000,4760
+Siltamäki,kt,"2h, k, vh, lasi...","62,00",142500,2298
+Etu-töölö,kt,"2 h, k, alkovi,...","68,50",525000,7664
+Ullanlinna,kt,2h+k+kh,"85,00",840000,9882
+Herttoniemi,kt,2h+avokeitti...,"41,50",277500,6687
+Pohjois-haaga,kt,"2h, kk, kph, vh","45,00",230200,5116
+Aurinkolahti,kt,"2h, kk, sauna j...","54,50",275000,5046
+Myllypuro,kt,2h+k+kph+parveke,"59,00",199000,3373
+Pitäjänmäki,kt,2h+k+kph-s+vh+l...,"64,50",178000,2760
+Alppiharju,kt,"2h, k, kph, alk...","57,00",392000,6877
+Harju,kt,"2h, kk, kph, p","42,00",255000,6071
+Ullanlinna,kt,2h+kk+kph,"47,50",375000,7895
+Kalasatama,kt,"2h, kt, s, kph,...","51,50",415000,8058
+Katajanokka,kt,"2h, avok, rt, k...","53,50",496000,9271
+Ullanlinna,kt,"2h, k, kph","53,50",525000,9813
+Malminkartano,kt,"2h, k, s, kph/w...","57,00",154000,2702
+Kallio,kt,"3h, k, kph, p","60,50",399000,6595
+Puotila,kt,3h+k+kph+parveke,"64,00",238000,3719
+Myllypuro,kt,"3h, k, kph, las. p","70,00",199000,2843
+Myllypuro,kt,"3h, k, kph, p","70,00",200000,2857
+Haaga,kt,"3h,k,kph,p.","56,00",307000,5482
+Reimarla,kt,3h+k+et+kph+vh+...,"68,00",222000,3265
+Kannelmäki,kt,3 h+k,"60,40",243280,4028
+Pihlajamäki,kt,3h+k+kph+p (yj....,"73,00",272000,3726
+Kamppi,kt,"3h, avok, kph, p","73,00",668000,9151
+Munkkiniemi,kt,3h+halli+k+kph+...,"110,50",850000,7692
+Taka-töölö,kt,3h+k+halli+s+kp...,"86,00",620000,7209
+Mellunmäki,kt,3h+k+kph+parveke,"70,00",129000,1843
+Etelä-haaga,kt,"3 h,k, erill.wc...","72,00",407000,5653
+Lauttasaari,kt,"2-3 h, k, vh, kph","56,00",465000,8304
+Pohjois-haaga,kt,3h+k+kph+vh+p,"62,00",313000,5048
+Ruskeasuo,kt,3h+k+kph+parv. ...,"63,80",439000,6881
+Pasila,kt,3h + k + vh + s...,"65,50",355000,5420
+Malmi,kt,3h+k+s,"73,00",205000,2808
+Jakomäki,kt,"3h, k, kph/wc +...","74,50",165000,2215
+Viikki,kt,"3h, k, kph, s, ...","87,00",355000,4080
+Tali,kt,3h + k + sauna,"78,50",382000,4866
+Oulunkylä,kt,"3h, avok, kph, ...","53,50",304000,5682
+Töölö,kt,3 h + k,"60,00",430000,7167
+Laajasalo,kt,"3h, k, kph, p","63,00",265000,4206
+Meilahti,kt,"3h, kph, avokei...","66,50",430000,6466
+Roihuvuori,kt,"3h, k, kph, vh","68,00",283000,4162
+Käpylä,kt,3h+kk+parveke,"55,00",356000,6473
+Lauttasaari,kt,3 h+k,"68,50",380000,5547
+Laajasalo,kt,3h+k+kph+vh,"71,50",230000,3217
+Kruununhaka,kt,"3h, k, kph, wc","78,80",625000,7931
+Kamppi,kt,3h+k+wc+kph ( 1...,"79,00",600000,7595
+Munkkiniemi,kt,3h+k+kph+wc+vh+p,"94,00",670000,7128
+Kaarela,kt,3 h + k,"66,00",256000,3879
+Patola,kt,"3h,k,kph,erill....","76,00",200000,2632
+Taka-töölö,kt,"3h, k, kph, wc,...","79,00",430000,5443
+Suutarila,kt,"3h, k, kph, wc, p","80,00",160000,2000
+Oulunkylä,kt,3h+k+s+lasitett...,"80,50",317000,3938
+Munkkiniemi,kt,3 h+k+halli,"83,50",705000,8443
+Vuosaari,kt,Asuinhuoneisto,"91,00",345000,3791
+Tapanila,kt,3h + k + s,"68,00",269000,3956
+Konala,kt,"3h, keittiö...","68,00",280000,4118
+Oulunkylä,kt,"3 h, k, rt, kh,...","71,00",359000,5056
+Keskusta,kt,"3h,k,kph,erill....","72,00",560000,7778
+Vallila,kt,"3h, k, vh, eril...","90,00",515000,5722
+Etu-töölö,kt,"3h, avok, kph, ...","94,00",935000,9947
+Roihuvuori,kt,3h+k,"68,00",406000,5971
+Pihlajamäki,kt,3-4h+k+kph+parv. ,"69,00",171000,2478
+Laajasalo,kt,"3 h, k, kph, wc...","74,00",270000,3649
+Lauttasaari,kt,3h+k+kph+s,"75,50",476100,6306
+Käpylä,kt,"3h, kk, kph, wc...","50,50",306000,6059
+Kamppi,kt,3h+avok+kph,"65,00",500000,7692
+Munkkivuori,kt,3 h+k+vh+kph+la...,"66,00",385000,5833

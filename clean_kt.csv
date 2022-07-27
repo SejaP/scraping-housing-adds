@@ -1,0 +1,98 @@
+price,rooms,size,type,area,p/s,n_room
+775000.0,"3 h, k, kph/ wc (yj muk. 3h+k)",86.2,Kerrostalo,Etu-Töölö,8990.719257540602,3
+315000.0,4h+kph+wc+vh+lasitettu parveke (yhtiöjärjestyksen mukaan 3-4h+avok+s),80.5,Kerrostalo,Vuosaari,3913.0434782608695,4
+228000.0,2h+kk+kph+parveke (yhtiöjärjestyksen mukaan 2h+kk),43.0,Kerrostalo,Lauttasaari,5302.325581395349,2
+375000.0,2h + k + p,39.5,Kerrostalo,Jätkäsaari,9493.67088607595,2
+615000.0,"3h, k, kph",82.0,Kerrostalo,Hakaniemi,7500.0,3
+230000.0,"2h,keittokomero,kph",32.5,Kerrostalo,Taka-Töölö,7076.923076923077,2
+189000.0,1 H + KK,21.0,Kerrostalo,Kallio,9000.0,1
+658000.0,2h+k+kph (YJ: 3h+k),86.3,Kerrostalo,Hakaniemi,7624.565469293164,2
+829000.0,"4h, avok., saunaos., wc, lasit. parveke",90.5,Kerrostalo,Sompasaari,9160.220994475138,4
+280000.0,"1h, k, et, kph",33.0,Kerrostalo,Punavuori,8484.848484848484,1
+330000.0,3h + avok + p + vh,72.0,Kerrostalo,Viikki,4583.333333333333,3
+388000.0,"2h, avok, kph (yj:n mukaan 2h+kk).",47.0,Kerrostalo,Munkkiniemi,8255.31914893617,2
+175000.0,2h+k+kph+s+vh+las.parveke,64.5,Kerrostalo,Malmi,2713.1782945736436,2
+325000.0,"2h, avok, kph (Yj. mukaan 2h+k)",44.0,Kerrostalo,Meilahti,7386.363636363636,2
+216000.0,"1h, kt, kph, ranskalainen parveke",26.5,Kerrostalo,Etelä-Haaga,8150.943396226415,1
+439000.0,"2h, k, kph, et",52.4,Kerrostalo,Etu-Töölö,8377.862595419847,2
+469000.0,5h + k + s + p,101.0,Kerrostalo,Postipuisto,4643.564356435643,5
+319000.0,2h+k,58.5,Kerrostalo,Lauttasaari,5452.991452991453,2
+382000.0,3h + k + kph + vh + parveke,68.5,Kerrostalo,Katajanokka,5576.6423357664235,3
+409000.0,"3h,k,kph,s,lasitettu parveke",64.5,Kerrostalo,Vanhankaupunginkoski,6341.085271317829,3
+264000.0,"1h, k, kph, erillis wc, et.",39.0,Kerrostalo,Alppila,6769.2307692307695,1
+528600.0,"2 h, keittiö",73.0,Kerrostalo,Töölö,7241.095890410959,2
+248000.0,2h+k+kph+parv,58.0,Kerrostalo,Maunula,4275.862068965517,2
+448000.0,"2h, k, kph, v, lasit. p",55.5,Kerrostalo,Kamppi,8072.072072072072,2
+135600.0,1h+kk+kph-wc,29.5,Kerrostalo,Yliskylä,4596.610169491525,1
+205000.0,3h+avok.+kph+s+parv.,74.5,Kerrostalo,Pukinmäki,2751.6778523489934,3
+379571.0,"2h,k,s,kph,las.parveke",59.5,Kerrostalo,Ruoholahti/Jätkäsaari,6379.344537815126,2
+429000.0,1-2h+kt,52.5,Kerrostalo,Lauttasaari,8171.428571428572,1
+789000.0,"2h,k,kph,s,lasitettu terassi,varasto/huoltotila",66.0,Kerrostalo,Etu-Töölö,11954.545454545454,2
+1630000.0,4h+k+kph+s+khh+terassi,181.5,Kerrostalo,Kamppi,8980.716253443527,4
+739000.0,"3h, avokeittiö, kph, s, vh, erillinen wc, lasitettu parveke(YJ:n mukainen 3 h+kt+s )",83.5,Kerrostalo,Kalasatama,8850.299401197604,3
+259560.0,"2h,kk, kph, s, las.parveke",46.5,Kerrostalo,Pikku Huopalahti,5581.935483870968,2
+145000.0,"1h, k, alkovi, kph, lasitettu parveke",34.0,Kerrostalo,Kannelmäki,4264.705882352941,1
+418000.0,"2h,k,kph,erill. wc,vh, lasit. parveke",55.0,Kerrostalo,Lauttasaari,7600.0,2
+359000.0,"2h, k, kph, vh, lasitettu parveke",58.0,Kerrostalo,Alppiharju,6189.6551724137935,2
+848000.0,3-4h+k+kph+s,95.0,Kerrostalo,Keskusta,8926.315789473685,3
+270000.0,1h + avok + p,29.5,Kerrostalo,Vallila,9152.542372881357,1
+165000.0,2h+kk+kph+p,47.0,Kerrostalo,Vuosaari,3510.6382978723404,2
+459000.0,"3h,avokeittiö, kph, s, eril. wc, lasitettu parveke",80.0,Kerrostalo,Kruunuvuorenranta,5737.5,3
+398000.0,2h + k + s + p,52.5,Kerrostalo,Herttoniemi,7580.952380952381,2
+546000.0,"3h, k, kph, s, erillinen wc, lasit.parveke",84.0,Kerrostalo,Aurinkolahti,6500.0,3
+226000.0,2h+k+kph/wc+parv. (YJ: 2 h+kk+rt),51.5,Kerrostalo,Roihuvuori,4388.349514563107,2
+780000.0,3h+k,98.0,Kerrostalo,Etu-Töölö,7959.183673469388,3
+299500.0,"3h, k, kph, vh, parveke",60.0,Kerrostalo,Oulunkylä,4991.666666666667,3
+380000.0,"3h, k, kph/wc, p",73.0,Kerrostalo,Pohjois-Haaga,5205.479452054795,3
+318000.0,"4h, k, las. p.",94.8,Kerrostalo,Maunula,3354.4303797468356,4
+293000.0,"1h, avok, kph, parvi (Yj. mukaan 1h+k)",28.5,Kerrostalo,Etu-Töölö,10280.701754385966,1
+212000.0,"2h, k, s/ph, p",52.5,Kerrostalo,Pukinmäki,4038.095238095238,2
+289000.0,1h + avok,33.5,Kerrostalo,Kamppi,8626.865671641792,1
+548000.0,3h+k+kph+s+p,74.5,Kerrostalo,Arabianranta,7355.704697986577,3
+165000.0,"2h, k, kph, p",52.0,Kerrostalo,Kontula,3173.076923076923,2
+416000.0,"2h, avok, kph",54.0,Kerrostalo,Taka-Töölö,7703.7037037037035,2
+248000.0,Oh+2 mh+kph+s+wc+vh+lasitettu parveke (yhtiöjärj. mukaan 3 h + k + s),75.0,Kerrostalo,Kannelmäki,3306.6666666666665,3
+242000.0,3h+k+lasitettu parveke,71.0,Kerrostalo,Laajasalo,3408.450704225352,3
+668000.0,"3h+kt - 67,5 m2",67.5,Kerrostalo,Töölö,9896.296296296296,3
+275000.0,"1h, avokeittiö, alkovi, kph",33.7,Kerrostalo,Kallio,8160.237388724035,1
+250000.0,"1, k, kph",35.0,Kerrostalo,Hakaniemi,7142.857142857143,1
+215000.0,"1h,avok, alkovi, kph",27.0,Kerrostalo,Hermanni,7962.962962962963,1
+205000.0,1h+avok+parvi+kph,17.1,Kerrostalo,Kallio,11988.30409356725,1
+12278.0,3H+K,73.5,Kerrostalo,Vuosaari,167.04761904761904,3
+309000.0,4h + k + kh + parv.,92.5,Kerrostalo,Oulunkylä/Patola,3340.5405405405404,4
+278000.0,"1h, avok, kph",31.0,Kerrostalo,Punavuori,8967.741935483871,1
+259000.0,1h + k + kph + wc,36.0,Kerrostalo,Sörnäinen,7194.444444444444,1
+197000.0,"3 - 4h, k, kph, las.parv.",67.5,Kerrostalo,Pihlajamäki,2918.5185185185187,3
+194000.0,2h+kk+vh+kph+s+lasitettu parveke,50.0,Kerrostalo,Savela,3880.0,2
+585000.0,"2-3h, k, halli, kph, wc",77.0,Kerrostalo,Kaartinkaupunki,7597.402597402597,2
+237508.0,2h + avok + p,33.0,Kerrostalo,Hermanninranta,7197.212121212121,2
+326233.0,2h + avok + p,47.0,Kerrostalo,Hermanninranta,6941.127659574468,2
+386347.0,2h + avok + p,55.0,Kerrostalo,Hermanninranta,7024.490909090909,2
+415318.0,2h + avok + p,57.0,Kerrostalo,Hermanninranta,7286.2807017543855,2
+459205.0,3h + avok + p,69.5,Kerrostalo,Hermanninranta,6607.26618705036,3
+393557.0,3h + avok + p,65.0,Kerrostalo,Hermanninranta,6054.723076923077,3
+199000.0,2h+k+kph+las. parveke (Yj:n mukaan 2 h+k),63.5,Kerrostalo,Siltamäki,3133.8582677165355,2
+423473.0,3h + avok + p,63.5,Kerrostalo,Hermanninranta,6668.866141732284,3
+636606.0,3h + avok + p,87.5,Kerrostalo,Hermanninranta,7275.4971428571425,3
+439000.0,2h+k+kph+erill.wc,54.0,Kerrostalo,Alppila,8129.62962962963,2
+355000.0,1h+k,53.0,Kerrostalo,Taka-Töölö,6698.11320754717,1
+249000.0,1h+kk+kph+lasitettu parveke,24.5,Kerrostalo,Punavuori,10163.265306122448,1
+270000.0,"kaksio, avok, kph",34.1,Kerrostalo,Meilahti,7917.8885630498535,2
+145000.0,"2h, k, kph, p",52.5,Kerrostalo,Kontula,2761.904761904762,2
+228000.0,1h,26.0,Kerrostalo,Kallio,8769.23076923077,1
+335000.0,1h + kk + parvi + kph,31.5,Kerrostalo,Kamppi,10634.920634920634,1
+221000.0,1h+avokeittiö+parvi,26.0,Kerrostalo,Töölö,8500.0,1
+278000.0,"1 h, kh/wc (Yj1h ja kk)",31.5,Kerrostalo,Kallio,8825.396825396825,1
+460000.0,2h+avok+viherhuone/ransk.parveke+vh+kph/s ( yhtj.mukaan 2h+kt+s),48.0,Kerrostalo,Kalasatama,9583.333333333334,2
+155000.0,"2h, k, kph, lasit.parveke",58.5,Kerrostalo,Meri-Rastila,2649.5726495726494,2
+187000.0,"1 h, avok, kph (yj: 1h+kph)",20.0,Kerrostalo,Alppiharju,9350.0,1
+257000.0,1h + k,31.0,Kerrostalo,Kallio,8290.322580645161,1
+279000.0,"2h, k, kph",55.5,Kerrostalo,Herttoniemi,5027.027027027027,2
+470000.0,2h+avok+kph+p (Yht.järj. 3h+k),62.6,Kerrostalo,Laakso,7507.987220447284,2
+165000.0,"1 h, alkovi, kk, kph (Yj.1h+kk+kh)",31.0,Kerrostalo,Itä-Pasila,5322.580645161291,1
+339000.0,"2h, keittiösyvennys, alkovi, kph",53.0,Kerrostalo,Vallila,6396.226415094339,2
+495000.0,1-2h+k (yj 1h+k),50.0,Kerrostalo,Kaartinkaupunki,9900.0,1
+317000.0,"2 h, avokeittiö, kph",55.0,Kerrostalo,Toukola,5763.636363636364,2
+424000.0,4h+k+kph+eril.wc+viherhuone+eteinen,90.5,Kerrostalo,Kuninkaantammi,4685.082872928177,4
+385000.0,"2h, avokeittiö, kph, parveke",45.0,Kerrostalo,Punavuori,8555.555555555555,2
+610000.0,4h + k + p,88.0,Kerrostalo,Lauttasaari,6931.818181818182,4
